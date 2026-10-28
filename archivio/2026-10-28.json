@@ -1,0 +1,27 @@
+{
+  "giorno": "2026-10-28",
+  "generato": "2026-10-28T18:30:00+01:00",
+  "titolo": "Turno infrasettimanale: Napoli e Juve alle 20:45, poi Il Cavaliere Oscuro su Sky",
+  "in_evidenza": [
+    {"ora": "20:45", "canale": "Sky Sport Calcio · DAZN", "titolo": "Monza – Napoli", "tipo": "partita", "nota": "Serie A, 9ª giornata"},
+    {"ora": "20:45", "canale": "DAZN", "titolo": "Genoa – Juventus", "tipo": "partita", "nota": "Serie A, 9ª giornata"},
+    {"ora": "21:15", "canale": "Rai 3", "titolo": "Chi l'ha visto?", "tipo": "inchiesta", "nota": "Casi e misteri in diretta"},
+    {"ora": "21:30", "canale": "Rete 4", "titolo": "È sempre Cartabianca", "tipo": "inchiesta", "nota": "Talk di attualità"},
+    {"ora": "21:30", "canale": "Rai 1", "titolo": "Tale e Quale Show", "tipo": "show", "nota": "Intrattenimento"}
+  ],
+  "cult": [
+    {"titolo": "Il Cavaliere Oscuro", "anno": 2008, "rt": 94, "ora": "22:55", "dove": "Sky Cinema Action", "accesso": "abbonamento", "nota": "Nolan, Heath Ledger: il Joker definitivo"},
+    {"titolo": "Fracchia, la belva umana", "anno": 1981, "rt": null, "ora": "22:47", "dove": "Cine34", "accesso": "chiaro", "nota": "Villaggio e Banfi, cult della commedia italiana"}
+  ],
+  "film_gratis": [
+    {"ora": "21:10", "canale": "20", "titolo": "Die Hard – Vivere o morire", "anno": 2007, "rt": 82, "nota": "Bruce Willis, action puro"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "State of Play", "anno": 2009, "nota": "Thriller giornalistico con Affleck e Crowe"},
+    {"ora": "21:26", "canale": "Italia 1", "titolo": "The Lost City", "anno": 2022, "nota": "Avventura comica, Bullock e Tatum"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Sfida senza regole", "anno": 2008, "nota": "Pacino e De Niro insieme"}
+  ],
+  "fonti": [
+    "https://www.libero.it/magazine/news/calcio-in-tv-oggi-programmazione-diretta-mercoledi-28-ottobre-2026-cosa-vedere-228663",
+    "https://www.staseraintv.com/mercoledi_28_ottobre_2026_index.html",
+    "https://www.libero.it/magazine/news/film-in-tv-stasera-in-onda-cosa-vedere-mercoledi-28-ottobre-2026-228659"
+  ]
+}
