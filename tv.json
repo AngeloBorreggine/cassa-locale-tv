@@ -1,101 +1,38 @@
 {
-  "giorno": "2026-10-28",
-  "generato": "2026-10-28T18:30:00+01:00",
-  "titolo": "Turno infrasettimanale: Napoli e Juve alle 20:45",
+  "giorno": "2026-10-29",
+  "generato": "2026-10-29T12:50:00+01:00",
+  "titolo": "Fiorentina–Atalanta chiude la giornata, derby azzurro a Vienna",
   "in_evidenza": [
-    {
-      "ora": "20:45",
-      "canale": "Sky Sport Calcio · DAZN",
-      "titolo": "Monza – Napoli",
-      "tipo": "partita",
-      "nota": "Serie A, 9ª giornata"
-    },
-    {
-      "ora": "20:45",
-      "canale": "DAZN",
-      "titolo": "Genoa – Juventus",
-      "tipo": "partita",
-      "nota": "Serie A, 9ª giornata"
-    },
-    {
-      "ora": "21:15",
-      "canale": "Rai 3",
-      "titolo": "Chi l'ha visto?",
-      "tipo": "inchiesta",
-      "nota": "Casi e misteri in diretta"
-    },
-    {
-      "ora": "21:30",
-      "canale": "Rete 4",
-      "titolo": "È sempre Cartabianca",
-      "tipo": "inchiesta",
-      "nota": "Talk di attualità"
-    },
-    {
-      "ora": "21:30",
-      "canale": "Rai 1",
-      "titolo": "Tale e Quale Show",
-      "tipo": "show",
-      "nota": "Intrattenimento"
-    }
+    {"ora": "20:45", "canale": "DAZN · DAZN 1 (Sky 214)", "titolo": "Fiorentina – Atalanta", "tipo": "partita", "nota": "Serie A, chiude la 9ª giornata"},
+    {"ora": "20:00", "canale": "Sky Sport Uno · Sky Sport Tennis · NOW", "titolo": "Cobolli – Berrettini (ATP Vienna)", "tipo": "sport", "nota": "Derby italiano per i quarti, non prima delle 20:00"},
+    {"ora": "21:15", "canale": "Italia 1", "titolo": "Le Iene", "tipo": "inchiesta", "nota": "Servizi su Brembate e Garlasco"},
+    {"ora": "21:15", "canale": "La7", "titolo": "Piazzapulita", "tipo": "inchiesta", "nota": "Approfondimento politico con Corrado Formigli"},
+    {"ora": "21:15", "canale": "Sky Uno · NOW", "titolo": "X Factor", "tipo": "show", "nota": "Secondo live della stagione"}
   ],
   "cult": [
-    {
-      "titolo": "Mad Max: Fury Road",
-      "anno": 2015,
-      "rt": 97,
-      "nota": "Inseguimento lungo due ore, action perfetto"
-    },
-    {
-      "titolo": "Il Cavaliere Oscuro",
-      "anno": 2008,
-      "rt": 94,
-      "nota": "Nolan, Heath Ledger: il Joker definitivo"
-    },
-    {
-      "titolo": "Ritorno al futuro",
-      "anno": 1985,
-      "rt": 93,
-      "nota": "Zemeckis, Marty e Doc: avventura senza tempo"
-    }
+    {"titolo": "Terminator 2 – Il giorno del giudizio", "anno": 1991, "rt": 90, "nota": "Cameron, Schwarzenegger: action fantascientifico di riferimento"},
+    {"titolo": "La grande fuga", "anno": 1963, "rt": 94, "nota": "Steve McQueen in moto, evasione corale leggendaria"},
+    {"titolo": "Lo squalo", "anno": 1975, "rt": 97, "nota": "Spielberg inventa il blockbuster: tensione pura"}
   ],
   "film_gratis": [
-    {
-      "ora": "21:10",
-      "canale": "20",
-      "titolo": "Die Hard – Vivere o morire",
-      "anno": 2007,
-      "rt": 82,
-      "nota": "Bruce Willis, action puro"
-    },
-    {
-      "ora": "21:15",
-      "canale": "Iris",
-      "titolo": "State of Play",
-      "anno": 2009,
-      "nota": "Thriller giornalistico con Affleck e Crowe"
-    },
-    {
-      "ora": "21:26",
-      "canale": "Italia 1",
-      "titolo": "The Lost City",
-      "anno": 2022,
-      "nota": "Avventura comica, Bullock e Tatum"
-    },
-    {
-      "ora": "21:10",
-      "canale": "Rai Movie",
-      "titolo": "Sfida senza regole",
-      "anno": 2008,
-      "nota": "Pacino e De Niro insieme"
-    }
+    {"ora": "21:14", "canale": "Iris", "titolo": "Air Force One", "anno": 1997, "rt": 78, "nota": "Harrison Ford presidente contro Gary Oldman"},
+    {"ora": "21:40", "canale": "TV8", "titolo": "The Equalizer 3 – Senza tregua", "anno": 2023, "rt": 76, "nota": "Denzel Washington in Costiera, ultimo capitolo"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Indagine su un cittadino al di sopra di ogni sospetto", "anno": 1970, "rt": 100, "nota": "Petri e Volonté, capolavoro premio Oscar"},
+    {"ora": "21:10", "canale": "20", "titolo": "The Protégé", "anno": 2021, "nota": "Maggie Q, Samuel L. Jackson, Keaton: thriller d'azione"}
   ],
   "fonti": [
-    "https://www.libero.it/magazine/news/calcio-in-tv-oggi-programmazione-diretta-mercoledi-28-ottobre-2026-cosa-vedere-228663",
-    "https://www.staseraintv.com/mercoledi_28_ottobre_2026_index.html",
-    "https://www.libero.it/magazine/news/film-in-tv-stasera-in-onda-cosa-vedere-mercoledi-28-ottobre-2026-228659",
-    "https://www.rottentomatoes.com/m/mad_max_fury_road",
-    "https://www.rottentomatoes.com/m/the_dark_knight",
-    "https://www.rottentomatoes.com/m/back_to_the_future"
+    "https://www.libero.it/magazine/news/calcio-in-tv-oggi-programmazione-diretta-gioved-29-ottobre-2026-cosa-vedere-228854",
+    "https://www.calciomagazine.net/calcio-in-tv-29-ottobre-2026-252100.html",
+    "https://www.oasport.it/2026/10/sport-in-tv-oggi-giovedi-29-ottobre-orari-e-programma-completo-come-vedere-gli-eventi-in-streaming-2/",
+    "https://www.staseraintv.com/giovedi_29_ottobre_2026_index.html",
+    "https://www.maridacaterini.it/programmazione-tv/495650-stasera-in-tv-giovedi-29-ottobre-2026-cosa-vedere-guida-tv.html",
+    "https://www.libero.it/magazine/news/stasera-in-tv-29-ottobre-2026-cosa-vedere-228852",
+    "https://www.libero.it/magazine/news/film-in-tv-stasera-in-onda-cosa-vedere-giovedi-29-ottobre-2026-228850",
+    "https://www.rottentomatoes.com/m/terminator_2_judgment_day",
+    "https://www.rottentomatoes.com/m/the_great_escape",
+    "https://www.rottentomatoes.com/m/jaws",
+    "https://www.rottentomatoes.com/m/air_force_one",
+    "https://www.rottentomatoes.com/m/the_equalizer_3",
+    "https://www.rottentomatoes.com/m/investigation_of_a_citizen_above_suspicion"
   ]
 }
