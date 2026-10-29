@@ -2,7 +2,7 @@
 
 Pubblico: gruppo di amici che la sera si trova in un locale (Bari). L'app "Cassa Locale" legge `tv.json` da questo repository.
 
-## Compito (ogni giorno, ~16:30 ora italiana)
+## Compito (ogni giorno, ~09:00 ora italiana)
 1. Data di oggi in Europe/Rome.
 2. Ricerca web della programmazione di STASERA (dalle 20:00 a fine serata) in Italia: digitale terrestre, Sky, NOW, DAZN, Prime Video, Netflix, Disney+, Apple TV+.
    Fonti preferite: guide TV del giorno (staseraintv.com, libero.it «film in TV stasera», comingsoon.it, sorrisi.com, maridacaterini.it), calendari Serie A/coppe (libero.it «calcio in TV oggi», sport.sky.it, dazn.com), rottentomatoes.com.
