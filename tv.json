@@ -1,38 +1,37 @@
 {
-  "giorno": "2026-10-29",
-  "generato": "2026-10-29T12:50:00+01:00",
-  "titolo": "Fiorentina–Atalanta chiude la giornata, derby azzurro a Vienna",
+  "giorno": "2026-10-30",
+  "generato": "2026-10-30T09:10:00+01:00",
+  "titolo": "Venerdì senza Serie A: Eurolega con Milano, Liga e F1 in Messico",
   "in_evidenza": [
-    {"ora": "20:45", "canale": "DAZN · DAZN 1 (Sky 214)", "titolo": "Fiorentina – Atalanta", "tipo": "partita", "nota": "Serie A, chiude la 9ª giornata"},
-    {"ora": "20:00", "canale": "Sky Sport Uno · Sky Sport Tennis · NOW", "titolo": "Cobolli – Berrettini (ATP Vienna)", "tipo": "sport", "nota": "Derby italiano per i quarti, non prima delle 20:00"},
-    {"ora": "21:15", "canale": "Italia 1", "titolo": "Le Iene", "tipo": "inchiesta", "nota": "Servizi su Brembate e Garlasco"},
-    {"ora": "21:15", "canale": "La7", "titolo": "Piazzapulita", "tipo": "inchiesta", "nota": "Approfondimento politico con Corrado Formigli"},
-    {"ora": "21:15", "canale": "Sky Uno · NOW", "titolo": "X Factor", "tipo": "show", "nota": "Secondo live della stagione"}
+    {"ora": "20:15", "canale": "Sky Sport Uno · NOW", "titolo": "Olympiacos – Olimpia Milano", "tipo": "sport", "nota": "Eurolega, Milano al Pireo"},
+    {"ora": "21:00", "canale": "DAZN · DAZN 1 (Sky 214)", "titolo": "Villarreal – Espanyol", "tipo": "partita", "nota": "Liga spagnola, anticipo del venerdì"},
+    {"ora": "23:00", "canale": "Sky Sport Uno · Sky Sport F1 · NOW", "titolo": "F1 GP Messico – Prove libere 2", "tipo": "sport", "nota": "Seconda sessione all'Autódromo Hermanos Rodríguez"},
+    {"ora": "21:33", "canale": "Rete 4", "titolo": "Quarto Grado", "tipo": "inchiesta", "nota": "Cronaca nera con Gianluigi Nuzzi e Alessandra Viero"},
+    {"ora": "21:15", "canale": "La7", "titolo": "Propaganda Live", "tipo": "show", "nota": "Satira e attualità con Diego Bianchi"}
   ],
   "cult": [
-    {"titolo": "Terminator 2 – Il giorno del giudizio", "anno": 1991, "rt": 90, "nota": "Cameron, Schwarzenegger: action fantascientifico di riferimento"},
-    {"titolo": "La grande fuga", "anno": 1963, "rt": 94, "nota": "Steve McQueen in moto, evasione corale leggendaria"},
-    {"titolo": "Lo squalo", "anno": 1975, "rt": 97, "nota": "Spielberg inventa il blockbuster: tensione pura"}
+    {"titolo": "Trappola di cristallo", "anno": 1988, "rt": 94, "nota": "Bruce Willis contro Alan Rickman nel Nakatomi Plaza"},
+    {"titolo": "Toy Story – Il mondo dei giocattoli", "anno": 1995, "rt": 100, "nota": "Woody e Buzz: il primo lungometraggio Pixar"},
+    {"titolo": "Edge of Tomorrow – Senza domani", "anno": 2014, "rt": 91, "nota": "Tom Cruise rivive la stessa battaglia, fantascienza brillante"}
   ],
   "film_gratis": [
-    {"ora": "21:14", "canale": "Iris", "titolo": "Air Force One", "anno": 1997, "rt": 78, "nota": "Harrison Ford presidente contro Gary Oldman"},
-    {"ora": "21:40", "canale": "TV8", "titolo": "The Equalizer 3 – Senza tregua", "anno": 2023, "rt": 76, "nota": "Denzel Washington in Costiera, ultimo capitolo"},
-    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Indagine su un cittadino al di sopra di ogni sospetto", "anno": 1970, "rt": 100, "nota": "Petri e Volonté, capolavoro premio Oscar"},
-    {"ora": "21:10", "canale": "20", "titolo": "The Protégé", "anno": 2021, "nota": "Maggie Q, Samuel L. Jackson, Keaton: thriller d'azione"}
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Cena con delitto – Knives Out", "anno": 2019, "rt": 97, "nota": "Giallo brillante di Rian Johnson con Daniel Craig"},
+    {"ora": "21:15", "canale": "La7 Cinema", "titolo": "Lawrence d'Arabia", "anno": 1962, "rt": 93, "nota": "Kolossal di David Lean, Peter O'Toole leggendario"},
+    {"ora": "21:20", "canale": "Rai 3", "titolo": "Civil War", "anno": 2024, "rt": 81, "nota": "Alex Garland, America in guerra civile: teso e cupo"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "Il corriere – The Mule", "anno": 2018, "rt": 69, "nota": "Clint Eastwood corriere della droga, malinconico"}
   ],
   "fonti": [
-    "https://www.libero.it/magazine/news/calcio-in-tv-oggi-programmazione-diretta-gioved-29-ottobre-2026-cosa-vedere-228854",
-    "https://www.calciomagazine.net/calcio-in-tv-29-ottobre-2026-252100.html",
-    "https://www.oasport.it/2026/10/sport-in-tv-oggi-giovedi-29-ottobre-orari-e-programma-completo-come-vedere-gli-eventi-in-streaming-2/",
-    "https://www.staseraintv.com/giovedi_29_ottobre_2026_index.html",
-    "https://www.maridacaterini.it/programmazione-tv/495650-stasera-in-tv-giovedi-29-ottobre-2026-cosa-vedere-guida-tv.html",
-    "https://www.libero.it/magazine/news/stasera-in-tv-29-ottobre-2026-cosa-vedere-228852",
-    "https://www.libero.it/magazine/news/film-in-tv-stasera-in-onda-cosa-vedere-giovedi-29-ottobre-2026-228850",
-    "https://www.rottentomatoes.com/m/terminator_2_judgment_day",
-    "https://www.rottentomatoes.com/m/the_great_escape",
-    "https://www.rottentomatoes.com/m/jaws",
-    "https://www.rottentomatoes.com/m/air_force_one",
-    "https://www.rottentomatoes.com/m/the_equalizer_3",
-    "https://www.rottentomatoes.com/m/investigation_of_a_citizen_above_suspicion"
+    "https://www.oasport.it/2026/10/sport-in-tv-oggi-venerdi-30-ottobre-orari-e-programma-completo-come-vedere-gli-eventi-in-streaming-2/amp/",
+    "https://www.calciomagazine.net/calcio-in-tv-30-ottobre-2026-252124.html",
+    "https://www.maridacaterini.it/programmazione-tv/495706-stasera-in-tv-venerdi-30-ottobre-2026-cosa-vedere-guida-tv.html",
+    "https://www.libero.it/magazine/news/stasera-in-tv-30-ottobre-2026-cosa-vedere-228991",
+    "https://www.mymovies.it/cinemanews/2026/197388/",
+    "https://www.rottentomatoes.com/m/die_hard",
+    "https://www.rottentomatoes.com/m/toy_story",
+    "https://www.rottentomatoes.com/m/live_die_repeat_edge_of_tomorrow",
+    "https://www.rottentomatoes.com/m/knives_out",
+    "https://www.rottentomatoes.com/m/lawrence_of_arabia",
+    "https://www.rottentomatoes.com/m/civil_war_2024",
+    "https://www.rottentomatoes.com/m/the_mule_2018"
   ]
 }
