@@ -6,8 +6,8 @@
     {"ora": "20:45", "canale": "DAZN · Sky Sport Uno · Sky Sport Calcio · NOW", "titolo": "Milan – Inter", "tipo": "partita", "nota": "Derby di San Siro, 10ª giornata di Serie A"},
     {"ora": "21:00", "canale": "DAZN · DAZN 1 (Sky 214)", "titolo": "Barcellona – Alavés", "tipo": "partita", "nota": "Liga spagnola, blaugrana in casa"},
     {"ora": "21:00", "canale": "Sky Sport Arena · NOW", "titolo": "Aston Villa – Fulham", "tipo": "partita", "nota": "Premier League, posticipo del sabato"},
-    {"ora": "20:35", "canale": "La7", "titolo": "In altre parole", "tipo": "show", "nota": "Attualità e cultura con Massimo Gramellini"},
-    {"ora": "21:30", "canale": "Rai 1", "titolo": "Ballando con le stelle", "tipo": "show", "nota": "Lo show del sabato con Milly Carlucci"}
+    {"ora": "20:35", "canale": "La7", "titolo": "In altre parole", "tipo": "show", "nota": "Approfondimento di attualità e cultura del sabato"},
+    {"ora": "21:30", "canale": "Rai 1", "titolo": "Ballando con le stelle", "tipo": "show", "nota": "Il varietà di danza del sabato sera"}
   ],
   "cult": [
     {"titolo": "Ghostbusters – Acchiappafantasmi", "anno": 1984, "rt": 95, "nota": "Murray, Aykroyd e Ramis contro i fantasmi: perfetto per Halloween"},
