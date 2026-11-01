@@ -1,0 +1,38 @@
+{
+  "giorno": "2026-11-01",
+  "generato": "2026-11-01T09:15:00+01:00",
+  "titolo": "Domenica di Juventus–Napoli su DAZN e GP del Messico su Sky",
+  "in_evidenza": [
+    {"ora": "20:45", "canale": "DAZN · DAZN 1 (Sky 214)", "titolo": "Juventus – Napoli", "tipo": "partita", "nota": "Big match della 10ª giornata, squadre appaiate a 14 punti"},
+    {"ora": "21:00", "canale": "Sky Sport Uno · Sky Sport F1 · NOW", "titolo": "F1 – GP del Messico", "tipo": "sport", "nota": "Gara in diretta; differita in chiaro su TV8 in serata"},
+    {"ora": "21:00", "canale": "DAZN", "titolo": "Athletic Bilbao – Real Sociedad", "tipo": "partita", "nota": "Derby basco della Liga"},
+    {"ora": "21:20", "canale": "Italia 1", "titolo": "Le Iene presentano: Inside", "tipo": "inchiesta", "nota": "Lo speciale d'inchiesta delle Iene"},
+    {"ora": "20:00", "canale": "Nove", "titolo": "Che tempo che fa", "tipo": "show", "nota": "Fabio Fazio e Luciana Littizzetto, ospiti della domenica"}
+  ],
+  "cult": [
+    {"titolo": "Speed", "anno": 1994, "rt": 95, "nota": "Keanu Reeves e Sandra Bullock su un autobus esplosivo"},
+    {"titolo": "Gli Incredibili", "anno": 2004, "rt": 97, "nota": "Pixar e una famiglia di supereroi: azione pura"},
+    {"titolo": "I predatori dell'arca perduta", "anno": 1981, "rt": 94, "nota": "Spielberg e Harrison Ford: il primo, mitico Indiana Jones"}
+  ],
+  "film_gratis": [
+    {"ora": "21:20", "canale": "Cielo", "titolo": "Django Unchained", "anno": 2012, "rt": 87, "nota": "Tarantino western con Foxx, Waltz e DiCaprio"},
+    {"ora": "21:14", "canale": "Iris", "titolo": "Indiana Jones e il tempio maledetto", "anno": 1984, "rt": 77, "nota": "Harrison Ford tra miniere e templi: avventura pura"},
+    {"ora": "21:00", "canale": "Cine34", "titolo": "Il principe e il pirata", "anno": 2001, "nota": "Pieraccioni e Ceccherini on the road, risate toscane"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Pompei", "anno": 2014, "nota": "Kolossal catastrofico: tanto spettacolo, poca sostanza"}
+  ],
+  "fonti": [
+    "https://www.digital-news.it/news/sky-italia/55110/serie-a-2026-27-diretta-sky-sport-e-now-10a-giornata-palinsesto-e-telecronisti",
+    "https://cpop.it/notizie/dove-vedere-juventus-napoli-stasera-1-novembre-2026-orario-tv-e-streaming-della-serie-a",
+    "https://www.fanpage.it/sport/calcio/juventus-napoli-serie-a-oggi-in-tv-dove-vederla-orario-formazioni-canale-in-diretta-e-streaming/",
+    "https://cpop.it/notizie/sport-in-tv-oggi-domenica-1-novembre-2026-orari-e-canali-di-calcio-motori-e-volley",
+    "https://www.oasport.it/2026/10/f1-gp-messico-2026-programma-orari-tv-streaming-guida-sky-e-tv8/",
+    "https://www.maridacaterini.it/programmazione-tv/495847-stasera-in-tv-domenica-1-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-domenica-1-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://www.lopinionista.it/programmi-tv-1-novembre-2026-231376.html",
+    "https://www.rottentomatoes.com/m/speed_1994",
+    "https://www.rottentomatoes.com/m/the_incredibles",
+    "https://www.rottentomatoes.com/m/raiders_of_the_lost_ark",
+    "https://www.rottentomatoes.com/m/django_unchained_2012",
+    "https://www.rottentomatoes.com/m/indiana_jones_and_the_temple_of_doom"
+  ]
+}
