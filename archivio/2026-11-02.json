@@ -1,0 +1,36 @@
+{
+  "giorno": "2026-11-02",
+  "generato": "2026-11-02T09:05:00+01:00",
+  "titolo": "Lunedì di Atalanta–Parma su DAZN e Newcastle–Everton su Sky",
+  "in_evidenza": [
+    {"ora": "20:45", "canale": "DAZN", "titolo": "Atalanta – Parma", "tipo": "partita", "nota": "Posticipo della 10ª giornata di Serie A, solo DAZN"},
+    {"ora": "20:55", "canale": "Sky Sport Calcio · NOW", "titolo": "Newcastle – Everton", "tipo": "partita", "nota": "Monday night di Premier League"},
+    {"ora": "20:20", "canale": "Sky Sport Uno · Sky Sport Basket", "titolo": "Cantù – Olimpia Milano", "tipo": "sport", "nota": "Lega Basket Serie A, sfida lombarda in diretta"},
+    {"ora": "21:20", "canale": "Rai 3", "titolo": "Lo stato delle cose", "tipo": "inchiesta", "nota": "Massimo Giletti tra inchieste e attualità"},
+    {"ora": "21:40", "canale": "TV8", "titolo": "GialappaShow", "tipo": "show", "nota": "La Gialappa's Band in prima tv: risate garantite"}
+  ],
+  "cult": [
+    {"titolo": "Hot Fuzz", "anno": 2007, "rt": 91, "nota": "Simon Pegg poliziotto in un paesino inglese troppo tranquillo"},
+    {"titolo": "Paddington 2", "anno": 2017, "rt": 99, "nota": "L'orsetto, Hugh Grant cattivo e tanta tenerezza"},
+    {"titolo": "Mission: Impossible – Fallout", "anno": 2018, "rt": 98, "nota": "Tom Cruise e stunt pazzeschi: azione di altissimo livello"}
+  ],
+  "film_gratis": [
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Giù la testa", "anno": 1971, "rt": 92, "nota": "Sergio Leone, rivoluzione messicana, Steiger e Coburn"},
+    {"ora": "21:25", "canale": "Italia 1", "titolo": "Fast & Furious 7", "anno": 2015, "rt": 81, "nota": "Auto volanti e addio a Paul Walker"},
+    {"ora": "21:00", "canale": "Cine34", "titolo": "Il ricco, il povero e il maggiordomo", "anno": 2014, "nota": "Aldo, Giovanni e Giacomo: commedia leggera e piacevole"},
+    {"ora": "21:20", "canale": "Rai 4", "titolo": "Accident Man", "anno": 2018, "nota": "Scott Adkins killer: botte senza pretese"}
+  ],
+  "fonti": [
+    "https://cpop.it/notizie/sport-in-tv-oggi-lunedi-2-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
+    "https://cpop.it/notizie/dove-vedere-sassuolo-fiorentina-oggi-2-novembre-2026-orario-canali-tv-e-streaming",
+    "https://www.virgilio.it/sport/serie-a-decima-giornata-programma-partite-977975",
+    "https://www.maridacaterini.it/programmazione-tv/495899-stasera-in-tv-lunedi-2-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-lunedi-2-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://www.mymovies.it/cinemanews/2026/197424/",
+    "https://www.rottentomatoes.com/m/hot_fuzz",
+    "https://www.rottentomatoes.com/m/paddington_2",
+    "https://www.rottentomatoes.com/m/mission_impossible_fallout",
+    "https://www.rottentomatoes.com/m/duck_you_sucker",
+    "https://www.rottentomatoes.com/m/furious_7"
+  ]
+}
