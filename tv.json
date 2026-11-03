@@ -1,36 +1,36 @@
 {
-  "giorno": "2026-11-02",
-  "generato": "2026-11-02T09:05:00+01:00",
-  "titolo": "Lunedì di Atalanta–Parma su DAZN e Newcastle–Everton su Sky",
+  "giorno": "2026-11-03",
+  "generato": "2026-11-03T09:05:00+01:00",
+  "titolo": "Martedì di Champions: Feyenoord–Inter e Manchester United–Roma su Sky",
   "in_evidenza": [
-    {"ora": "20:45", "canale": "DAZN", "titolo": "Atalanta – Parma", "tipo": "partita", "nota": "Posticipo della 10ª giornata di Serie A, solo DAZN"},
-    {"ora": "20:55", "canale": "Sky Sport Calcio · NOW", "titolo": "Newcastle – Everton", "tipo": "partita", "nota": "Monday night di Premier League"},
-    {"ora": "20:20", "canale": "Sky Sport Uno · Sky Sport Basket", "titolo": "Cantù – Olimpia Milano", "tipo": "sport", "nota": "Lega Basket Serie A, sfida lombarda in diretta"},
-    {"ora": "21:20", "canale": "Rai 3", "titolo": "Lo stato delle cose", "tipo": "inchiesta", "nota": "Massimo Giletti tra inchieste e attualità"},
-    {"ora": "21:40", "canale": "TV8", "titolo": "GialappaShow", "tipo": "show", "nota": "La Gialappa's Band in prima tv: risate garantite"}
+    {"ora": "21:00", "canale": "Sky Sport Uno · NOW", "titolo": "Feyenoord – Inter", "tipo": "partita", "nota": "Champions League, nerazzurri in trasferta a Rotterdam"},
+    {"ora": "21:00", "canale": "Sky Sport Arena · NOW", "titolo": "Manchester United – Roma", "tipo": "partita", "nota": "Champions League, giallorossi all'Old Trafford"},
+    {"ora": "21:00", "canale": "Sky Sport Calcio · NOW", "titolo": "Barcellona – Aston Villa", "tipo": "partita", "nota": "Champions League, big match europeo della serata"},
+    {"ora": "21:15", "canale": "La7", "titolo": "diMartedì", "tipo": "inchiesta", "nota": "Giovanni Floris tra politica e attualità"},
+    {"ora": "21:30", "canale": "TV8", "titolo": "X Factor 2026 – La gara", "tipo": "show", "nota": "Live del talent musicale"}
   ],
   "cult": [
-    {"titolo": "Hot Fuzz", "anno": 2007, "rt": 91, "nota": "Simon Pegg poliziotto in un paesino inglese troppo tranquillo"},
-    {"titolo": "Paddington 2", "anno": 2017, "rt": 99, "nota": "L'orsetto, Hugh Grant cattivo e tanta tenerezza"},
-    {"titolo": "Mission: Impossible – Fallout", "anno": 2018, "rt": 98, "nota": "Tom Cruise e stunt pazzeschi: azione di altissimo livello"}
+    {"titolo": "Spider-Man: Un nuovo universo", "anno": 2018, "rt": 97, "nota": "Miles Morales e animazione rivoluzionaria, ritmo travolgente"},
+    {"titolo": "Scappa – Get Out", "anno": 2017, "rt": 98, "nota": "Thriller satirico di Jordan Peele, tensione e colpi di scena"},
+    {"titolo": "Il buono, il brutto, il cattivo", "anno": 1966, "rt": 97, "nota": "Leone, Eastwood e Morricone: il western definitivo"}
   ],
   "film_gratis": [
-    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Giù la testa", "anno": 1971, "rt": 92, "nota": "Sergio Leone, rivoluzione messicana, Steiger e Coburn"},
-    {"ora": "21:25", "canale": "Italia 1", "titolo": "Fast & Furious 7", "anno": 2015, "rt": 81, "nota": "Auto volanti e addio a Paul Walker"},
-    {"ora": "21:00", "canale": "Cine34", "titolo": "Il ricco, il povero e il maggiordomo", "anno": 2014, "nota": "Aldo, Giovanni e Giacomo: commedia leggera e piacevole"},
-    {"ora": "21:20", "canale": "Rai 4", "titolo": "Accident Man", "anno": 2018, "nota": "Scott Adkins killer: botte senza pretese"}
+    {"ora": "21:15", "canale": "Iris", "titolo": "Sentieri selvaggi", "anno": 1956, "rt": 87, "nota": "John Ford e John Wayne, western classico imperdibile"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Non così vicino", "anno": 2023, "rt": 70, "nota": "Tom Hanks burbero vedovo, commedia agrodolce"},
+    {"ora": "21:28", "canale": "Italia 1", "titolo": "L'uomo d'acciaio", "anno": 2013, "rt": 57, "nota": "Superman di Snyder: spettacolo visivo, trama così così"},
+    {"ora": "21:10", "canale": "20", "titolo": "Bastille Day – Il colpo del secolo", "anno": 2016, "nota": "Idris Elba action a Parigi, senza pretese"}
   ],
   "fonti": [
-    "https://cpop.it/notizie/sport-in-tv-oggi-lunedi-2-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
-    "https://cpop.it/notizie/dove-vedere-sassuolo-fiorentina-oggi-2-novembre-2026-orario-canali-tv-e-streaming",
-    "https://www.virgilio.it/sport/serie-a-decima-giornata-programma-partite-977975",
-    "https://www.maridacaterini.it/programmazione-tv/495899-stasera-in-tv-lunedi-2-novembre-2026-cosa-vedere-guida-tv.html",
-    "https://www.dituttounpop.it/guida-tv-lunedi-2-novembre-2026-cosa-vedere-stasera-in-tv/",
-    "https://www.mymovies.it/cinemanews/2026/197424/",
-    "https://www.rottentomatoes.com/m/hot_fuzz",
-    "https://www.rottentomatoes.com/m/paddington_2",
-    "https://www.rottentomatoes.com/m/mission_impossible_fallout",
-    "https://www.rottentomatoes.com/m/duck_you_sucker",
-    "https://www.rottentomatoes.com/m/furious_7"
+    "https://cpop.it/notizie/sport-in-tv-oggi-martedi-3-novembre-2026-orari-e-canali-di-calcio-tennis-e-volley",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-marted-3-novembre-champions-league-masters-1000-parigi-basket-978476",
+    "https://www.maridacaterini.it/programmazione-tv/495952-stasera-in-tv-martedi-3-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-martedi-3-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://www.mymovies.it/cinemanews/2026/197435/",
+    "https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse",
+    "https://www.rottentomatoes.com/m/get_out",
+    "https://www.rottentomatoes.com/m/the_good_the_bad_and_the_ugly",
+    "https://www.rottentomatoes.com/m/searchers",
+    "https://www.rottentomatoes.com/m/a_man_called_otto",
+    "https://www.rottentomatoes.com/m/superman_man_of_steel"
   ]
 }

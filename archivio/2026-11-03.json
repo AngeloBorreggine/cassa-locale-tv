@@ -1,0 +1,36 @@
+{
+  "giorno": "2026-11-03",
+  "generato": "2026-11-03T09:05:00+01:00",
+  "titolo": "Martedì di Champions: Feyenoord–Inter e Manchester United–Roma su Sky",
+  "in_evidenza": [
+    {"ora": "21:00", "canale": "Sky Sport Uno · NOW", "titolo": "Feyenoord – Inter", "tipo": "partita", "nota": "Champions League, nerazzurri in trasferta a Rotterdam"},
+    {"ora": "21:00", "canale": "Sky Sport Arena · NOW", "titolo": "Manchester United – Roma", "tipo": "partita", "nota": "Champions League, giallorossi all'Old Trafford"},
+    {"ora": "21:00", "canale": "Sky Sport Calcio · NOW", "titolo": "Barcellona – Aston Villa", "tipo": "partita", "nota": "Champions League, big match europeo della serata"},
+    {"ora": "21:15", "canale": "La7", "titolo": "diMartedì", "tipo": "inchiesta", "nota": "Giovanni Floris tra politica e attualità"},
+    {"ora": "21:30", "canale": "TV8", "titolo": "X Factor 2026 – La gara", "tipo": "show", "nota": "Live del talent musicale"}
+  ],
+  "cult": [
+    {"titolo": "Spider-Man: Un nuovo universo", "anno": 2018, "rt": 97, "nota": "Miles Morales e animazione rivoluzionaria, ritmo travolgente"},
+    {"titolo": "Scappa – Get Out", "anno": 2017, "rt": 98, "nota": "Thriller satirico di Jordan Peele, tensione e colpi di scena"},
+    {"titolo": "Il buono, il brutto, il cattivo", "anno": 1966, "rt": 97, "nota": "Leone, Eastwood e Morricone: il western definitivo"}
+  ],
+  "film_gratis": [
+    {"ora": "21:15", "canale": "Iris", "titolo": "Sentieri selvaggi", "anno": 1956, "rt": 87, "nota": "John Ford e John Wayne, western classico imperdibile"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Non così vicino", "anno": 2023, "rt": 70, "nota": "Tom Hanks burbero vedovo, commedia agrodolce"},
+    {"ora": "21:28", "canale": "Italia 1", "titolo": "L'uomo d'acciaio", "anno": 2013, "rt": 57, "nota": "Superman di Snyder: spettacolo visivo, trama così così"},
+    {"ora": "21:10", "canale": "20", "titolo": "Bastille Day – Il colpo del secolo", "anno": 2016, "nota": "Idris Elba action a Parigi, senza pretese"}
+  ],
+  "fonti": [
+    "https://cpop.it/notizie/sport-in-tv-oggi-martedi-3-novembre-2026-orari-e-canali-di-calcio-tennis-e-volley",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-marted-3-novembre-champions-league-masters-1000-parigi-basket-978476",
+    "https://www.maridacaterini.it/programmazione-tv/495952-stasera-in-tv-martedi-3-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-martedi-3-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://www.mymovies.it/cinemanews/2026/197435/",
+    "https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse",
+    "https://www.rottentomatoes.com/m/get_out",
+    "https://www.rottentomatoes.com/m/the_good_the_bad_and_the_ugly",
+    "https://www.rottentomatoes.com/m/searchers",
+    "https://www.rottentomatoes.com/m/a_man_called_otto",
+    "https://www.rottentomatoes.com/m/superman_man_of_steel"
+  ]
+}
