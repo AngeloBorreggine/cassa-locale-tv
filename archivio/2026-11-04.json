@@ -1,0 +1,36 @@
+{
+  "giorno": "2026-11-04",
+  "generato": "2026-11-04T09:00:00+01:00",
+  "titolo": "Mercoledì di Champions: Porto–Napoli su Prime, Lens–Como su Sky",
+  "in_evidenza": [
+    {"ora": "21:00", "canale": "Prime Video", "titolo": "Porto – Napoli", "tipo": "partita", "nota": "Champions League, azzurri in trasferta al Dragão"},
+    {"ora": "21:00", "canale": "Sky Sport Uno · NOW", "titolo": "Lens – Como", "tipo": "partita", "nota": "Champions League, il Como di scena in Francia"},
+    {"ora": "21:00", "canale": "TV8 · Sky Sport Calcio", "titolo": "RB Lipsia – Manchester City", "tipo": "partita", "nota": "Champions League in chiaro su TV8"},
+    {"ora": "21:15", "canale": "Rai 3", "titolo": "Chi l'ha visto?", "tipo": "inchiesta", "nota": "Federica Sciarelli tra casi di cronaca e scomparse"},
+    {"ora": "21:30", "canale": "Nove", "titolo": "Il tavolo di Che tempo che fa", "tipo": "show", "nota": "Fabio Fazio e i suoi ospiti"}
+  ],
+  "cult": [
+    {"titolo": "Top Gun: Maverick", "anno": 2022, "rt": 96, "nota": "Tom Cruise torna in volo: azione aerea spettacolare"},
+    {"titolo": "Coco", "anno": 2017, "rt": 97, "nota": "Pixar nel Giorno dei Morti messicano, musica ed emozione"},
+    {"titolo": "The Nice Guys", "anno": 2016, "rt": 91, "nota": "Gosling e Crowe, detective sgangherati nella Los Angeles anni '70"}
+  ],
+  "film_gratis": [
+    {"ora": "21:19", "canale": "Rai 4", "titolo": "Free Guy – Eroe per gioco", "anno": 2021, "rt": 80, "nota": "Ryan Reynolds dentro un videogioco, commedia d'azione divertente"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "Giochi di potere", "anno": 1992, "rt": 72, "nota": "Harrison Ford è Jack Ryan, thriller solido da Clancy"},
+    {"ora": "21:28", "canale": "Italia 1", "titolo": "Red Sparrow", "anno": 2018, "rt": 45, "nota": "Jennifer Lawrence spia russa, cupo e discontinuo"},
+    {"ora": "21:10", "canale": "20", "titolo": "Die Hard – Un buon giorno per morire", "anno": 2013, "nota": "McClane a Mosca: il capitolo più debole della saga"}
+  ],
+  "fonti": [
+    "https://cpop.it/notizie/sport-in-tv-oggi-mercoledi-4-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-mercoledi-4-novembre-champions-league-masters-parigi-volley-e-tennis-978622",
+    "https://www.maridacaterini.it/programmazione-tv/496015-stasera-in-tv-mercoledi-4-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-mercoledi-4-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://www.mymovies.it/cinemanews/2026/197436/",
+    "https://www.rottentomatoes.com/m/top_gun_maverick",
+    "https://www.rottentomatoes.com/m/coco_2017",
+    "https://www.rottentomatoes.com/m/the_nice_guys",
+    "https://www.rottentomatoes.com/m/free_guy",
+    "https://www.rottentomatoes.com/m/patriot_games",
+    "https://www.rottentomatoes.com/m/red_sparrow"
+  ]
+}
