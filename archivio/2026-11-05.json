@@ -1,0 +1,37 @@
+{
+  "giorno": "2026-11-05",
+  "generato": "2026-11-05T09:05:00+01:00",
+  "titolo": "Giovedì di Europa League: AZ–Juventus su Sky, Milan in differita su TV8",
+  "in_evidenza": [
+    {"ora": "21:00", "canale": "Sky Sport Uno · NOW", "titolo": "AZ Alkmaar – Juventus", "tipo": "partita", "nota": "Europa League, bianconeri in trasferta in Olanda"},
+    {"ora": "21:00", "canale": "TV8", "titolo": "Milan – Ferencvaros", "tipo": "partita", "nota": "Europa League in chiaro, differita della gara delle 18:45"},
+    {"ora": "21:00", "canale": "Sky Sport Calcio · NOW", "titolo": "Bayer Leverkusen – Olympique Marsiglia", "tipo": "partita", "nota": "Europa League, big match della serata"},
+    {"ora": "21:15", "canale": "Italia 1", "titolo": "Le Iene", "tipo": "inchiesta", "nota": "Veronica Gentili tra servizi, scherzi e inchieste"},
+    {"ora": "21:15", "canale": "La7", "titolo": "Piazzapulita", "tipo": "inchiesta", "nota": "Corrado Formigli tra attualità, politica e reportage"}
+  ],
+  "cult": [
+    {"titolo": "Ratatouille", "anno": 2007, "rt": 96, "nota": "Pixar: un topo chef a Parigi, delizioso e divertente"},
+    {"titolo": "Baby Driver – Il genio della fuga", "anno": 2017, "rt": 92, "nota": "Edgar Wright: inseguimenti a ritmo di musica"},
+    {"titolo": "Dragon Trainer", "anno": 2010, "rt": 99, "nota": "Un ragazzo vichingo e il suo drago: avventura animata epica"}
+  ],
+  "film_gratis": [
+    {"ora": "21:10", "canale": "20", "titolo": "Dungeons & Dragons – L'onore dei ladri", "anno": 2023, "rt": 91, "nota": "Fantasy d'avventura scanzonato, sorpresa divertentissima"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Fair Game – Caccia alla spia", "anno": 2010, "rt": 78, "nota": "Watts e Penn nel caso Valerie Plame, thriller solido"},
+    {"ora": "21:19", "canale": "Rai 4", "titolo": "The Bikeriders", "anno": 2023, "nota": "Austin Butler e Tom Hardy, motociclisti anni '60"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "Commando", "anno": 1985, "rt": 70, "nota": "Schwarzenegger one-man army: action anni '80 puro"}
+  ],
+  "fonti": [
+    "https://cpop.it/notizie/sport-in-tv-oggi-giovedi-5-novembre-2026-orari-e-canali-di-calcio-tennis-e-motori",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-giovedi-5-novembre-europa-league-masters-1000-parigi-basket-e-italia-slovacchia-di-pallamano-978777",
+    "https://www.maridacaterini.it/programmazione-tv/496066-stasera-in-tv-giovedi-5-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-giovedi-5-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/guida-tv-giovedi-5-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://www.mymovies.it/cinemanews/2026/197437/",
+    "https://www.rottentomatoes.com/m/ratatouille",
+    "https://www.rottentomatoes.com/m/baby_driver",
+    "https://www.rottentomatoes.com/m/how_to_train_your_dragon",
+    "https://www.rottentomatoes.com/m/dungeons_and_dragons_honor_among_thieves",
+    "https://www.rottentomatoes.com/m/fair-game-2010",
+    "https://www.rottentomatoes.com/m/1004567-commando"
+  ]
+}
