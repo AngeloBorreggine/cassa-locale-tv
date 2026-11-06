@@ -1,0 +1,33 @@
+{
+  "giorno": "2026-11-06",
+  "generato": "2026-11-06T09:00:00+01:00",
+  "titolo": "Venerdì con Venezia–Udinese, Eurolega e quarti a Parigi; Harry Potter su Italia 1",
+  "in_evidenza": [
+    {"ora": "20:45", "canale": "Sky Sport Calcio · DAZN", "titolo": "Venezia – Udinese", "tipo": "partita", "nota": "Serie A, anticipo del venerdì sera"},
+    {"ora": "20:30", "canale": "Sky Sport Basket", "titolo": "Virtus Bologna – Dubai Basketball", "tipo": "sport", "nota": "Eurolega, Virtus in casa"},
+    {"ora": "20:30", "canale": "Sky Sport Tennis", "titolo": "ATP 1000 Parigi – 4° quarto di finale", "tipo": "sport", "nota": "Masters di Parigi, quarti in diretta"},
+    {"ora": "21:30", "canale": "Rete 4", "titolo": "Quarto Grado", "tipo": "inchiesta", "nota": "Nuzzi e Viero sui casi di cronaca"},
+    {"ora": "21:15", "canale": "La7", "titolo": "Propaganda Live", "tipo": "show", "nota": "Diego Bianchi tra satira e attualità"}
+  ],
+  "cult": [
+    {"titolo": "Aliens – Scontro finale", "anno": 1986, "rt": 93, "nota": "James Cameron: Ripley e i marines contro gli xenomorfi"},
+    {"titolo": "Galaxy Quest", "anno": 1999, "rt": 91, "nota": "Attori di una serie sci-fi finiscono nello spazio vero"},
+    {"titolo": "Il gigante di ferro", "anno": 1999, "rt": 96, "nota": "Brad Bird: un bambino e un robot gigante, commovente"}
+  ],
+  "film_gratis": [
+    {"ora": "21:25", "canale": "Italia 1", "titolo": "Harry Potter e la pietra filosofale", "anno": 2001, "rt": 80, "nota": "Il primo anno a Hogwarts, magia per tutti"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "Il texano dagli occhi di ghiaccio", "anno": 1976, "rt": 91, "nota": "Eastwood regista e protagonista, western di vendetta"},
+    {"ora": "21:20", "canale": "Rai 4", "titolo": "L'ultima vendetta", "nota": "Liam Neeson killer in Irlanda anni Settanta"},
+    {"ora": "21:10", "canale": "La5", "titolo": "...E alla fine arriva Polly", "anno": 2004, "nota": "Ben Stiller e Jennifer Aniston, commedia leggera"}
+  ],
+  "fonti": [
+    "https://www.maridacaterini.it/programmazione-tv/496120-stasera-in-tv-venerdi-6-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-venerdi-6-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/sport-in-tv-oggi-venerdi-6-novembre-2026-orari-e-canali-di-calcio-tennis-e-motori",
+    "https://www.rottentomatoes.com/m/1000617-aliens",
+    "https://www.rottentomatoes.com/m/galaxy_quest",
+    "https://www.rottentomatoes.com/m/iron_giant",
+    "https://www.rottentomatoes.com/m/harry_potter_and_the_sorcerers_stone",
+    "https://www.rottentomatoes.com/m/outlaw_josey_wales"
+  ]
+}
