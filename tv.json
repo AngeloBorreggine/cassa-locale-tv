@@ -1,33 +1,34 @@
 {
-  "giorno": "2026-11-06",
-  "generato": "2026-11-06T09:00:00+01:00",
-  "titolo": "Venerdì con Venezia–Udinese, Eurolega e quarti a Parigi; Harry Potter su Italia 1",
+  "giorno": "2026-11-07",
+  "generato": "2026-11-07T09:00:00+01:00",
+  "titolo": "Sabato con Roma–Sassuolo, qualifiche F1 su TV8 e Ballando; Animali fantastici su Italia 1",
   "in_evidenza": [
-    {"ora": "20:45", "canale": "Sky Sport Calcio · DAZN", "titolo": "Venezia – Udinese", "tipo": "partita", "nota": "Serie A, anticipo del venerdì sera"},
-    {"ora": "20:30", "canale": "Sky Sport Basket", "titolo": "Virtus Bologna – Dubai Basketball", "tipo": "sport", "nota": "Eurolega, Virtus in casa"},
-    {"ora": "20:30", "canale": "Sky Sport Tennis", "titolo": "ATP 1000 Parigi – 4° quarto di finale", "tipo": "sport", "nota": "Masters di Parigi, quarti in diretta"},
-    {"ora": "21:30", "canale": "Rete 4", "titolo": "Quarto Grado", "tipo": "inchiesta", "nota": "Nuzzi e Viero sui casi di cronaca"},
-    {"ora": "21:15", "canale": "La7", "titolo": "Propaganda Live", "tipo": "show", "nota": "Diego Bianchi tra satira e attualità"}
+    {"ora": "20:45", "canale": "DAZN · Sky Sport Calcio", "titolo": "Roma – Sassuolo", "tipo": "partita", "nota": "Serie A, posticipo del sabato sera"},
+    {"ora": "21:00", "canale": "TV8", "titolo": "F1 GP San Paolo – Qualifiche", "tipo": "sport", "nota": "Interlagos in chiaro; diretta alle 18:55 su Sky Sport F1"},
+    {"ora": "21:00", "canale": "Sky Sport Arena", "titolo": "Francia – Figi", "tipo": "sport", "nota": "Rugby, Nations Championship in diretta"},
+    {"ora": "20:35", "canale": "La7", "titolo": "In altre parole", "tipo": "inchiesta", "nota": "Gramellini tra attualità, politica e cultura"},
+    {"ora": "21:30", "canale": "Rai 1", "titolo": "Ballando con le Stelle", "tipo": "show", "nota": "Sesta puntata con Milly Carlucci"}
   ],
   "cult": [
-    {"titolo": "Aliens – Scontro finale", "anno": 1986, "rt": 93, "nota": "James Cameron: Ripley e i marines contro gli xenomorfi"},
-    {"titolo": "Galaxy Quest", "anno": 1999, "rt": 91, "nota": "Attori di una serie sci-fi finiscono nello spazio vero"},
-    {"titolo": "Il gigante di ferro", "anno": 1999, "rt": 96, "nota": "Brad Bird: un bambino e un robot gigante, commovente"}
+    {"titolo": "Chi ha incastrato Roger Rabbit", "anno": 1988, "rt": 96, "nota": "Zemeckis: detective e cartoni animati in una Los Angeles noir"},
+    {"titolo": "Il fuggitivo", "anno": 1993, "rt": 96, "nota": "Harrison Ford in fuga, Tommy Lee Jones alle calcagna"},
+    {"titolo": "La storia fantastica", "anno": 1987, "rt": 93, "nota": "Rob Reiner: fiaba d'avventura ironica, duelli e pirati"}
   ],
   "film_gratis": [
-    {"ora": "21:25", "canale": "Italia 1", "titolo": "Harry Potter e la pietra filosofale", "anno": 2001, "rt": 80, "nota": "Il primo anno a Hogwarts, magia per tutti"},
-    {"ora": "21:15", "canale": "Iris", "titolo": "Il texano dagli occhi di ghiaccio", "anno": 1976, "rt": 91, "nota": "Eastwood regista e protagonista, western di vendetta"},
-    {"ora": "21:20", "canale": "Rai 4", "titolo": "L'ultima vendetta", "nota": "Liam Neeson killer in Irlanda anni Settanta"},
-    {"ora": "21:10", "canale": "La5", "titolo": "...E alla fine arriva Polly", "anno": 2004, "nota": "Ben Stiller e Jennifer Aniston, commedia leggera"}
+    {"ora": "21:25", "canale": "Italia 1", "titolo": "Animali fantastici e dove trovarli", "anno": 2016, "rt": 74, "nota": "Eddie Redmayne e creature magiche nella New York del 1926"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Piedone lo sbirro", "nota": "Bud Spencer commissario a Napoli, regia di Steno"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "Al vertice della tensione", "nota": "Ben Affleck è Jack Ryan, con Morgan Freeman"},
+    {"ora": "21:30", "canale": "Rete 4", "titolo": "3 Days to Kill", "anno": 2014, "nota": "Kevin Costner agente CIA all'ultima missione, azione"}
   ],
   "fonti": [
-    "https://www.maridacaterini.it/programmazione-tv/496120-stasera-in-tv-venerdi-6-novembre-2026-cosa-vedere-guida-tv.html",
-    "https://www.dituttounpop.it/guida-tv-venerdi-6-novembre-2026-cosa-vedere-stasera-in-tv/",
-    "https://cpop.it/notizie/sport-in-tv-oggi-venerdi-6-novembre-2026-orari-e-canali-di-calcio-tennis-e-motori",
-    "https://www.rottentomatoes.com/m/1000617-aliens",
-    "https://www.rottentomatoes.com/m/galaxy_quest",
-    "https://www.rottentomatoes.com/m/iron_giant",
-    "https://www.rottentomatoes.com/m/harry_potter_and_the_sorcerers_stone",
-    "https://www.rottentomatoes.com/m/outlaw_josey_wales"
+    "https://www.maridacaterini.it/programmazione-tv/496198-stasera-in-tv-sabato-7-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-sabato-7-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://www.mymovies.it/cinemanews/2026/197488/",
+    "https://cpop.it/notizie/sport-in-tv-oggi-sabato-7-novembre-2026-orari-e-canali-di-calcio-motori-e-volley",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-sabato-7-novembre-serie-a-motogp-italia-sudafrica-di-rugby-e-volley-979089",
+    "https://www.rottentomatoes.com/m/who_framed_roger_rabbit",
+    "https://www.rottentomatoes.com/m/1046129-fugitive",
+    "https://www.rottentomatoes.com/m/princess_bride",
+    "https://www.rottentomatoes.com/m/fantastic_beasts_and_where_to_find_them"
   ]
 }
