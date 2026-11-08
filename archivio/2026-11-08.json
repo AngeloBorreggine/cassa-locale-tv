@@ -1,0 +1,38 @@
+{
+  "giorno": "2026-11-08",
+  "generato": "2026-11-08T09:00:00+01:00",
+  "titolo": "Domenica con Fiorentina–Juventus, Atlético–Barça su Italia 1 e GP San Paolo su TV8",
+  "in_evidenza": [
+    {"ora": "20:45", "canale": "DAZN", "titolo": "Fiorentina – Juventus", "tipo": "partita", "nota": "Serie A, posticipo della domenica sera"},
+    {"ora": "21:00", "canale": "Italia 1", "titolo": "Atlético Madrid – Barcellona", "tipo": "partita", "nota": "Liga in chiaro, prepartita dalle 20:45"},
+    {"ora": "21:25", "canale": "TV8", "titolo": "F1 GP San Paolo – Gara", "tipo": "sport", "nota": "Interlagos in differita; diretta alle 18:00 su Sky Sport F1"},
+    {"ora": "21:00", "canale": "Rai 3", "titolo": "Report", "tipo": "inchiesta", "nota": "Inchieste di Sigfrido Ranucci e della sua squadra"},
+    {"ora": "20:00", "canale": "Nove", "titolo": "Che tempo che fa", "tipo": "show", "nota": "Fabio Fazio e Luciana Littizzetto, nuova puntata"}
+  ],
+  "cult": [
+    {"titolo": "Up", "anno": 2009, "rt": 98, "nota": "Pixar: vecchietto, bambino scout e casa volante coi palloncini"},
+    {"titolo": "Fargo", "anno": 1996, "rt": 95, "nota": "Coen: rapimento maldestro nella neve del Minnesota, nero e ironico"},
+    {"titolo": "Galline in fuga", "anno": 2000, "rt": 97, "nota": "Aardman in plastilina: evasione da pollaio stile La grande fuga"}
+  ],
+  "film_gratis": [
+    {"ora": "21:15", "canale": "Iris", "titolo": "Indiana Jones e l'ultima crociata", "anno": 1989, "rt": 84, "nota": "Harrison Ford e Sean Connery a caccia del Graal"},
+    {"ora": "21:20", "canale": "Cielo", "titolo": "Jackie Brown", "anno": 1997, "rt": 88, "nota": "Tarantino: hostess contro trafficanti, crime elegante con Pam Grier"},
+    {"ora": "21:15", "canale": "Twentyseven", "titolo": "Rush Hour 2", "anno": 2001, "rt": 49, "nota": "Jackie Chan e Chris Tucker, azione e risate leggere"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Le crociate – Kingdom of Heaven", "anno": 2005, "nota": "Ridley Scott: kolossal storico a Gerusalemme, battaglie spettacolari"}
+  ],
+  "fonti": [
+    "https://maridacaterini.it/programmazione-tv/496309-stasera-in-tv-domenica-8-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-domenica-8-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://www.mymovies.it/cinemanews/2026/197489/",
+    "https://cpop.it/notizie/sport-in-tv-oggi-domenica-8-novembre-2026-orari-e-canali-di-calcio-motori-e-volley",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-domenica-8-novembre-serie-a-f1-motogp-tennis-e-volley-979226",
+    "https://cpop.it/notizie/dove-vedere-atletico-madrid-barcellona-oggi-8-novembre-orario-tv-e-streaming",
+    "https://cpop.it/notizie/dove-vedere-il-gp-di-san-paolo-f1-oggi-8-novembre-2026-orario-tv-e-streaming",
+    "https://www.rottentomatoes.com/m/up",
+    "https://www.rottentomatoes.com/m/fargo",
+    "https://www.rottentomatoes.com/m/chicken_run",
+    "https://www.rottentomatoes.com/m/indiana_jones_and_the_last_crusade",
+    "https://www.rottentomatoes.com/m/jackie_brown",
+    "https://www.rottentomatoes.com/m/rush_hour_2"
+  ]
+}
