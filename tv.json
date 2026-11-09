@@ -1,38 +1,38 @@
 {
-  "giorno": "2026-11-08",
-  "generato": "2026-11-08T09:00:00+01:00",
-  "titolo": "Domenica con Fiorentina–Juventus, Atlético–Barça su Italia 1 e GP San Paolo su TV8",
+  "giorno": "2026-11-09",
+  "generato": "2026-11-09T09:00:00+01:00",
+  "titolo": "Lunedì con Picerno–Bari in chiaro su Rai Sport, WTA Finals e talk d'inchiesta",
   "in_evidenza": [
-    {"ora": "20:45", "canale": "DAZN", "titolo": "Fiorentina – Juventus", "tipo": "partita", "nota": "Serie A, posticipo della domenica sera"},
-    {"ora": "21:00", "canale": "Italia 1", "titolo": "Atlético Madrid – Barcellona", "tipo": "partita", "nota": "Liga in chiaro, prepartita dalle 20:45"},
-    {"ora": "21:25", "canale": "TV8", "titolo": "F1 GP San Paolo – Gara", "tipo": "sport", "nota": "Interlagos in differita; diretta alle 18:00 su Sky Sport F1"},
-    {"ora": "21:00", "canale": "Rai 3", "titolo": "Report", "tipo": "inchiesta", "nota": "Inchieste di Sigfrido Ranucci e della sua squadra"},
-    {"ora": "20:00", "canale": "Nove", "titolo": "Che tempo che fa", "tipo": "show", "nota": "Fabio Fazio e Luciana Littizzetto, nuova puntata"}
+    {"ora": "20:45", "canale": "Rai Sport / Sky Sport Calcio", "titolo": "AZ Picerno – Bari", "tipo": "partita", "nota": "Serie C, 13ª giornata; gratis anche su RaiPlay"},
+    {"ora": "21:00", "canale": "Sky Sport Tennis", "titolo": "WTA Finals Indian Wells", "tipo": "sport", "nota": "Round robin singolare in diretta, poi su Sky Sport Uno"},
+    {"ora": "21:20", "canale": "Rai 3", "titolo": "Lo Stato delle Cose", "tipo": "inchiesta", "nota": "Massimo Giletti tra attualità e inchieste"},
+    {"ora": "21:30", "canale": "Rete 4", "titolo": "Quarta Repubblica", "tipo": "inchiesta", "nota": "Nicola Porro, approfondimento politico ed economico"},
+    {"ora": "21:40", "canale": "TV8", "titolo": "GialappaShow", "tipo": "show", "nota": "Gialappa's e Mago Forest, ospite Madalina Ghenea"}
   ],
   "cult": [
-    {"titolo": "Up", "anno": 2009, "rt": 98, "nota": "Pixar: vecchietto, bambino scout e casa volante coi palloncini"},
-    {"titolo": "Fargo", "anno": 1996, "rt": 95, "nota": "Coen: rapimento maldestro nella neve del Minnesota, nero e ironico"},
-    {"titolo": "Galline in fuga", "anno": 2000, "rt": 97, "nota": "Aardman in plastilina: evasione da pollaio stile La grande fuga"}
+    {"titolo": "Cena con delitto – Knives Out", "anno": 2019, "rt": 97, "nota": "Rian Johnson: giallo brillante con Daniel Craig detective"},
+    {"titolo": "Zootropolis", "anno": 2016, "rt": 98, "nota": "Disney: coniglietta poliziotta e volpe truffatrice risolvono un caso"},
+    {"titolo": "Ricomincio da capo", "anno": 1993, "rt": 93, "nota": "Bill Murray intrappolato nello stesso giorno, commedia perfetta"}
   ],
   "film_gratis": [
-    {"ora": "21:15", "canale": "Iris", "titolo": "Indiana Jones e l'ultima crociata", "anno": 1989, "rt": 84, "nota": "Harrison Ford e Sean Connery a caccia del Graal"},
-    {"ora": "21:20", "canale": "Cielo", "titolo": "Jackie Brown", "anno": 1997, "rt": 88, "nota": "Tarantino: hostess contro trafficanti, crime elegante con Pam Grier"},
-    {"ora": "21:15", "canale": "Twentyseven", "titolo": "Rush Hour 2", "anno": 2001, "rt": 49, "nota": "Jackie Chan e Chris Tucker, azione e risate leggere"},
-    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Le crociate – Kingdom of Heaven", "anno": 2005, "nota": "Ridley Scott: kolossal storico a Gerusalemme, battaglie spettacolari"}
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Il mio nome è nessuno", "anno": 1973, "rt": 100, "nota": "Terence Hill e Henry Fonda, western ironico da rivedere"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "American Gangster", "anno": 2007, "rt": 81, "nota": "Ridley Scott: Denzel Washington boss, Russell Crowe sbirro"},
+    {"ora": "21:25", "canale": "Italia 1", "titolo": "Fast & Furious 8", "anno": 2017, "rt": 67, "nota": "Vin Diesel e Charlize Theron, inseguimenti esagerati e divertenti"},
+    {"ora": "21:15", "canale": "Cielo", "titolo": "The November Man", "anno": 2014, "rt": 36, "nota": "Pierce Brosnan spia in azione, thriller senza pretese"}
   ],
   "fonti": [
-    "https://maridacaterini.it/programmazione-tv/496309-stasera-in-tv-domenica-8-novembre-2026-cosa-vedere-guida-tv.html",
-    "https://www.dituttounpop.it/guida-tv-domenica-8-novembre-2026-cosa-vedere-stasera-in-tv/",
-    "https://www.mymovies.it/cinemanews/2026/197489/",
-    "https://cpop.it/notizie/sport-in-tv-oggi-domenica-8-novembre-2026-orari-e-canali-di-calcio-motori-e-volley",
-    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-domenica-8-novembre-serie-a-f1-motogp-tennis-e-volley-979226",
-    "https://cpop.it/notizie/dove-vedere-atletico-madrid-barcellona-oggi-8-novembre-orario-tv-e-streaming",
-    "https://cpop.it/notizie/dove-vedere-il-gp-di-san-paolo-f1-oggi-8-novembre-2026-orario-tv-e-streaming",
-    "https://www.rottentomatoes.com/m/up",
-    "https://www.rottentomatoes.com/m/fargo",
-    "https://www.rottentomatoes.com/m/chicken_run",
-    "https://www.rottentomatoes.com/m/indiana_jones_and_the_last_crusade",
-    "https://www.rottentomatoes.com/m/jackie_brown",
-    "https://www.rottentomatoes.com/m/rush_hour_2"
+    "https://www.maridacaterini.it/programmazione-tv/496354-stasera-in-tv-lunedi-9-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-lunedi-9-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/guida-tv-lunedi-9-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://cpop.it/notizie/sport-in-tv-oggi-lunedi-9-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
+    "https://cpop.it/notizie/dove-vedere-az-picerno-bari-oggi-9-novembre-orario-canale-tv-e-streaming",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-lunedi-9-novembre-atp250-stoccolma-indian-wells-serie-c-979373",
+    "https://www.rottentomatoes.com/m/knives_out",
+    "https://www.rottentomatoes.com/m/zootopia",
+    "https://www.rottentomatoes.com/m/groundhog_day",
+    "https://www.rottentomatoes.com/m/my_name_is_nobody",
+    "https://www.rottentomatoes.com/m/american_gangster",
+    "https://www.rottentomatoes.com/m/the_fate_of_the_furious",
+    "https://www.rottentomatoes.com/m/the_november_man"
   ]
 }
