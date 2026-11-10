@@ -1,0 +1,38 @@
+{
+  "giorno": "2026-11-10",
+  "generato": "2026-11-10T09:00:00+01:00",
+  "titolo": "Martedì con Italia–Kosovo di futsal in chiaro, WTA Finals, diMartedì e Giorgia",
+  "in_evidenza": [
+    {"ora": "20:00", "canale": "Rai Sport", "titolo": "Italia – Kosovo (futsal)", "tipo": "partita", "nota": "Qualificazioni Mondiali 2028 da Barletta, basta un pari"},
+    {"ora": "20:30", "canale": "Sky Sport Basket", "titolo": "London Lions – Umana Reyer Venezia", "tipo": "sport", "nota": "EuroCup, anche in streaming su NOW"},
+    {"ora": "21:00", "canale": "SuperTennis / Sky Sport Tennis", "titolo": "WTA Finals: Kostyuk – Pegula", "tipo": "sport", "nota": "Round robin, a seguire Gauff – Noskova"},
+    {"ora": "21:15", "canale": "La7", "titolo": "diMartedì", "tipo": "inchiesta", "nota": "Giovanni Floris tra politica, economia e costo della vita"},
+    {"ora": "21:20", "canale": "Canale 5", "titolo": "Giorgia – Last Call", "tipo": "show", "nota": "Concerto all'Unipol Forum con Emma, Annalisa e Irama"}
+  ],
+  "cult": [
+    {"titolo": "Alla ricerca di Nemo", "anno": 2003, "rt": 99, "nota": "Pixar: un pesce pagliaccio attraversa l'oceano per il figlio"},
+    {"titolo": "Il silenzio degli innocenti", "anno": 1991, "rt": 95, "nota": "Jodie Foster e Anthony Hopkins, thriller da brividi"},
+    {"titolo": "Inside Out", "anno": 2015, "rt": 98, "nota": "Pixar: le emozioni di una ragazzina prendono vita"}
+  ],
+  "film_gratis": [
+    {"ora": "21:15", "canale": "Iris", "titolo": "Un dollaro d'onore", "anno": 1959, "rt": 95, "nota": "Howard Hawks: John Wayne e Dean Martin, western classico"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Fidanzata in affitto", "anno": 2023, "rt": 71, "nota": "Jennifer Lawrence scatenata, commedia sboccata e divertente"},
+    {"ora": "21:15", "canale": "Twentyseven", "titolo": "Il principe delle donne", "anno": 1992, "nota": "Eddie Murphy seduttore in commedia romantica anni '90"},
+    {"ora": "21:10", "canale": "20", "titolo": "Déjà Vu – Corsa contro il tempo", "anno": 2006, "rt": 55, "nota": "Denzel Washington, thriller fantascientifico di Tony Scott"}
+  ],
+  "fonti": [
+    "https://www.maridacaterini.it/programmazione-tv/496420-stasera-in-tv-martedi-10-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-martedi-10-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/guida-tv-martedi-10-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://cpop.it/notizie/sport-in-tv-oggi-martedi-10-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
+    "https://cpop.it/notizie/dove-vedere-italia-kosovo-di-futsal-oggi-10-novembre-orario-tv-e-streaming-delle-qualificazioni-mondiali-2028",
+    "https://cpop.it/notizie/dove-vedere-le-wta-finals-oggi-10-novembre-2026-orario-tv-e-streaming-di-kostyuk-pegula-e-gauff-noskova",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-martedi-10-novembre-atp-stoccolma-basket-e-calcio-a-5-979524",
+    "https://www.rottentomatoes.com/m/finding_nemo",
+    "https://www.rottentomatoes.com/m/silence_of_the_lambs",
+    "https://www.rottentomatoes.com/m/inside_out_2015",
+    "https://www.rottentomatoes.com/m/rio_bravo",
+    "https://www.rottentomatoes.com/m/no_hard_feelings_2023",
+    "https://www.rottentomatoes.com/m/deja_vu"
+  ]
+}

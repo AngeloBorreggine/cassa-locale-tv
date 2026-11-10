@@ -1,38 +1,38 @@
 {
-  "giorno": "2026-11-09",
-  "generato": "2026-11-09T09:00:00+01:00",
-  "titolo": "Lunedì con Picerno–Bari in chiaro su Rai Sport, WTA Finals e talk d'inchiesta",
+  "giorno": "2026-11-10",
+  "generato": "2026-11-10T09:00:00+01:00",
+  "titolo": "Martedì con Italia–Kosovo di futsal in chiaro, WTA Finals, diMartedì e Giorgia",
   "in_evidenza": [
-    {"ora": "20:45", "canale": "Rai Sport / Sky Sport Calcio", "titolo": "AZ Picerno – Bari", "tipo": "partita", "nota": "Serie C, 13ª giornata; gratis anche su RaiPlay"},
-    {"ora": "21:00", "canale": "Sky Sport Tennis", "titolo": "WTA Finals Indian Wells", "tipo": "sport", "nota": "Round robin singolare in diretta, poi su Sky Sport Uno"},
-    {"ora": "21:20", "canale": "Rai 3", "titolo": "Lo Stato delle Cose", "tipo": "inchiesta", "nota": "Massimo Giletti tra attualità e inchieste"},
-    {"ora": "21:30", "canale": "Rete 4", "titolo": "Quarta Repubblica", "tipo": "inchiesta", "nota": "Nicola Porro, approfondimento politico ed economico"},
-    {"ora": "21:40", "canale": "TV8", "titolo": "GialappaShow", "tipo": "show", "nota": "Gialappa's e Mago Forest, ospite Madalina Ghenea"}
+    {"ora": "20:00", "canale": "Rai Sport", "titolo": "Italia – Kosovo (futsal)", "tipo": "partita", "nota": "Qualificazioni Mondiali 2028 da Barletta, basta un pari"},
+    {"ora": "20:30", "canale": "Sky Sport Basket", "titolo": "London Lions – Umana Reyer Venezia", "tipo": "sport", "nota": "EuroCup, anche in streaming su NOW"},
+    {"ora": "21:00", "canale": "SuperTennis / Sky Sport Tennis", "titolo": "WTA Finals: Kostyuk – Pegula", "tipo": "sport", "nota": "Round robin, a seguire Gauff – Noskova"},
+    {"ora": "21:15", "canale": "La7", "titolo": "diMartedì", "tipo": "inchiesta", "nota": "Giovanni Floris tra politica, economia e costo della vita"},
+    {"ora": "21:20", "canale": "Canale 5", "titolo": "Giorgia – Last Call", "tipo": "show", "nota": "Concerto all'Unipol Forum con Emma, Annalisa e Irama"}
   ],
   "cult": [
-    {"titolo": "Cena con delitto – Knives Out", "anno": 2019, "rt": 97, "nota": "Rian Johnson: giallo brillante con Daniel Craig detective"},
-    {"titolo": "Zootropolis", "anno": 2016, "rt": 98, "nota": "Disney: coniglietta poliziotta e volpe truffatrice risolvono un caso"},
-    {"titolo": "Ricomincio da capo", "anno": 1993, "rt": 93, "nota": "Bill Murray intrappolato nello stesso giorno, commedia perfetta"}
+    {"titolo": "Alla ricerca di Nemo", "anno": 2003, "rt": 99, "nota": "Pixar: un pesce pagliaccio attraversa l'oceano per il figlio"},
+    {"titolo": "Il silenzio degli innocenti", "anno": 1991, "rt": 95, "nota": "Jodie Foster e Anthony Hopkins, thriller da brividi"},
+    {"titolo": "Inside Out", "anno": 2015, "rt": 98, "nota": "Pixar: le emozioni di una ragazzina prendono vita"}
   ],
   "film_gratis": [
-    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Il mio nome è nessuno", "anno": 1973, "rt": 100, "nota": "Terence Hill e Henry Fonda, western ironico da rivedere"},
-    {"ora": "21:15", "canale": "Iris", "titolo": "American Gangster", "anno": 2007, "rt": 81, "nota": "Ridley Scott: Denzel Washington boss, Russell Crowe sbirro"},
-    {"ora": "21:25", "canale": "Italia 1", "titolo": "Fast & Furious 8", "anno": 2017, "rt": 67, "nota": "Vin Diesel e Charlize Theron, inseguimenti esagerati e divertenti"},
-    {"ora": "21:15", "canale": "Cielo", "titolo": "The November Man", "anno": 2014, "rt": 36, "nota": "Pierce Brosnan spia in azione, thriller senza pretese"}
+    {"ora": "21:15", "canale": "Iris", "titolo": "Un dollaro d'onore", "anno": 1959, "rt": 95, "nota": "Howard Hawks: John Wayne e Dean Martin, western classico"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Fidanzata in affitto", "anno": 2023, "rt": 71, "nota": "Jennifer Lawrence scatenata, commedia sboccata e divertente"},
+    {"ora": "21:15", "canale": "Twentyseven", "titolo": "Il principe delle donne", "anno": 1992, "nota": "Eddie Murphy seduttore in commedia romantica anni '90"},
+    {"ora": "21:10", "canale": "20", "titolo": "Déjà Vu – Corsa contro il tempo", "anno": 2006, "rt": 55, "nota": "Denzel Washington, thriller fantascientifico di Tony Scott"}
   ],
   "fonti": [
-    "https://www.maridacaterini.it/programmazione-tv/496354-stasera-in-tv-lunedi-9-novembre-2026-cosa-vedere-guida-tv.html",
-    "https://www.dituttounpop.it/guida-tv-lunedi-9-novembre-2026-cosa-vedere-stasera-in-tv/",
-    "https://cpop.it/notizie/guida-tv-lunedi-9-novembre-2026-cosa-vedere-stasera-in-tv",
-    "https://cpop.it/notizie/sport-in-tv-oggi-lunedi-9-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
-    "https://cpop.it/notizie/dove-vedere-az-picerno-bari-oggi-9-novembre-orario-canale-tv-e-streaming",
-    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-lunedi-9-novembre-atp250-stoccolma-indian-wells-serie-c-979373",
-    "https://www.rottentomatoes.com/m/knives_out",
-    "https://www.rottentomatoes.com/m/zootopia",
-    "https://www.rottentomatoes.com/m/groundhog_day",
-    "https://www.rottentomatoes.com/m/my_name_is_nobody",
-    "https://www.rottentomatoes.com/m/american_gangster",
-    "https://www.rottentomatoes.com/m/the_fate_of_the_furious",
-    "https://www.rottentomatoes.com/m/the_november_man"
+    "https://www.maridacaterini.it/programmazione-tv/496420-stasera-in-tv-martedi-10-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-martedi-10-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/guida-tv-martedi-10-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://cpop.it/notizie/sport-in-tv-oggi-martedi-10-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
+    "https://cpop.it/notizie/dove-vedere-italia-kosovo-di-futsal-oggi-10-novembre-orario-tv-e-streaming-delle-qualificazioni-mondiali-2028",
+    "https://cpop.it/notizie/dove-vedere-le-wta-finals-oggi-10-novembre-2026-orario-tv-e-streaming-di-kostyuk-pegula-e-gauff-noskova",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-martedi-10-novembre-atp-stoccolma-basket-e-calcio-a-5-979524",
+    "https://www.rottentomatoes.com/m/finding_nemo",
+    "https://www.rottentomatoes.com/m/silence_of_the_lambs",
+    "https://www.rottentomatoes.com/m/inside_out_2015",
+    "https://www.rottentomatoes.com/m/rio_bravo",
+    "https://www.rottentomatoes.com/m/no_hard_feelings_2023",
+    "https://www.rottentomatoes.com/m/deja_vu"
   ]
 }
