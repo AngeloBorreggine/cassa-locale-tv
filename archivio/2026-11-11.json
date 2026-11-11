@@ -1,0 +1,36 @@
+{
+  "giorno": "2026-11-11",
+  "generato": "2026-11-11T09:00:00+01:00",
+  "titolo": "Mercoledì con l'Italbasket femminile, WTA Finals, Chi l'ha visto? e Tale e Quale Show",
+  "in_evidenza": [
+    {"ora": "20:00", "canale": "Sky Sport Uno", "titolo": "Italia – Slovenia (basket femminile)", "tipo": "partita", "nota": "Qualificazioni EuroBasket 2027, in diretta"},
+    {"ora": "21:00", "canale": "Sky Sport Tennis / SuperTennis", "titolo": "WTA Finals – singolare round robin", "tipo": "sport", "nota": "Sessione serale in diretta, su SuperTennis dalle 21:10"},
+    {"ora": "21:15", "canale": "Rai 3", "titolo": "Chi l'ha visto?", "tipo": "inchiesta", "nota": "Persone scomparse e casi irrisolti, tra cui Mirella Gregori"},
+    {"ora": "21:15", "canale": "La7", "titolo": "Una giornata particolare – Aldo Moro", "tipo": "inchiesta", "nota": "Aldo Cazzullo ricostruisce il delitto Moro e i suoi misteri"},
+    {"ora": "21:30", "canale": "Rai 1", "titolo": "Tale e Quale Show", "tipo": "show", "nota": "Carlo Conti, penultima puntata in diretta"}
+  ],
+  "cult": [
+    {"titolo": "WALL•E", "anno": 2008, "rt": 95, "nota": "Pixar: un robottino spazzino salva l'umanità per amore"},
+    {"titolo": "Jurassic Park", "anno": 1993, "rt": 91, "nota": "Spielberg e i dinosauri: avventura che non invecchia mai"},
+    {"titolo": "Guardiani della Galassia", "anno": 2014, "rt": 91, "nota": "Marvel scanzonata con Chris Pratt e colonna sonora anni '70"}
+  ],
+  "film_gratis": [
+    {"ora": "21:15", "canale": "La7 Cinema", "titolo": "Revenant – Redivivo", "anno": 2015, "rt": 78, "nota": "DiCaprio da Oscar, sopravvivenza brutale nella natura selvaggia"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "Eyes Wide Shut", "anno": 1999, "rt": 79, "nota": "Ultimo Kubrick, Cruise e Kidman in un enigma notturno"},
+    {"ora": "21:27", "canale": "Italia 1", "titolo": "La guerra di domani", "anno": 2021, "rt": 51, "nota": "Chris Pratt contro alieni dal futuro, action senza pretese"},
+    {"ora": "21:00", "canale": "Cine34", "titolo": "Simpatici e antipatici", "anno": 1998, "nota": "Christian De Sica, commedia corale all'italiana"}
+  ],
+  "fonti": [
+    "https://www.maridacaterini.it/programmazione-tv/496487-stasera-in-tv-mercoledi-11-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-mercoledi-11-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/guida-tv-mercoledi-11-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://cpop.it/notizie/sport-in-tv-oggi-mercoledi-11-novembre-2026-orari-e-canali-di-calcio-tennis-e-volley",
+    "https://www.mymovies.it/cinemanews/2026/197500/",
+    "https://www.rottentomatoes.com/m/wall_e",
+    "https://www.rottentomatoes.com/m/jurassic_park",
+    "https://www.rottentomatoes.com/m/guardians_of_the_galaxy",
+    "https://www.rottentomatoes.com/m/the_revenant_2015",
+    "https://www.rottentomatoes.com/m/eyes_wide_shut",
+    "https://www.rottentomatoes.com/m/the_tomorrow_war"
+  ]
+}
