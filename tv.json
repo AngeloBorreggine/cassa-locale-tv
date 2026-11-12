@@ -1,36 +1,36 @@
 {
-  "giorno": "2026-11-11",
-  "generato": "2026-11-11T09:00:00+01:00",
-  "titolo": "Mercoledì con l'Italbasket femminile, WTA Finals, Chi l'ha visto? e Tale e Quale Show",
+  "giorno": "2026-11-12",
+  "generato": "2026-11-12T09:00:00+01:00",
+  "titolo": "Giovedì con Italia–Francia su Rai 1, Olimpia in EuroLeague, Le Iene e Piazzapulita",
   "in_evidenza": [
-    {"ora": "20:00", "canale": "Sky Sport Uno", "titolo": "Italia – Slovenia (basket femminile)", "tipo": "partita", "nota": "Qualificazioni EuroBasket 2027, in diretta"},
-    {"ora": "21:00", "canale": "Sky Sport Tennis / SuperTennis", "titolo": "WTA Finals – singolare round robin", "tipo": "sport", "nota": "Sessione serale in diretta, su SuperTennis dalle 21:10"},
-    {"ora": "21:15", "canale": "Rai 3", "titolo": "Chi l'ha visto?", "tipo": "inchiesta", "nota": "Persone scomparse e casi irrisolti, tra cui Mirella Gregori"},
-    {"ora": "21:15", "canale": "La7", "titolo": "Una giornata particolare – Aldo Moro", "tipo": "inchiesta", "nota": "Aldo Cazzullo ricostruisce il delitto Moro e i suoi misteri"},
-    {"ora": "21:30", "canale": "Rai 1", "titolo": "Tale e Quale Show", "tipo": "show", "nota": "Carlo Conti, penultima puntata in diretta"}
+    {"ora": "20:45", "canale": "Rai 1", "titolo": "Italia – Francia", "tipo": "partita", "nota": "Nations League a San Siro, in chiaro e su RaiPlay"},
+    {"ora": "20:35", "canale": "Sky Sport Uno", "titolo": "Inghilterra – Croazia", "tipo": "partita", "nota": "Nations League, quinta giornata, in diretta"},
+    {"ora": "20:30", "canale": "Sky Sport Basket", "titolo": "Olimpia Milano – Zalgiris Kaunas", "tipo": "partita", "nota": "EuroLeague di basket, in diretta"},
+    {"ora": "21:15", "canale": "Italia 1", "titolo": "Le Iene", "tipo": "inchiesta", "nota": "Veronica Gentili conduce servizi e inchieste"},
+    {"ora": "21:15", "canale": "La7", "titolo": "Piazzapulita", "tipo": "inchiesta", "nota": "Corrado Formigli tra attualità, politica e reportage"}
   ],
   "cult": [
-    {"titolo": "WALL•E", "anno": 2008, "rt": 95, "nota": "Pixar: un robottino spazzino salva l'umanità per amore"},
-    {"titolo": "Jurassic Park", "anno": 1993, "rt": 91, "nota": "Spielberg e i dinosauri: avventura che non invecchia mai"},
-    {"titolo": "Guardiani della Galassia", "anno": 2014, "rt": 91, "nota": "Marvel scanzonata con Chris Pratt e colonna sonora anni '70"}
+    {"titolo": "Guerre stellari", "anno": 1977, "rt": 93, "nota": "Lucas apre la saga: Luke, Leia, Han e la Morte Nera"},
+    {"titolo": "Fantastic Mr. Fox", "anno": 2009, "rt": 93, "nota": "Wes Anderson in stop-motion, volpe ladra e irresistibile"},
+    {"titolo": "La città incantata", "anno": 2001, "rt": 96, "nota": "Miyazaki, capolavoro Ghibli premiato con l'Oscar"}
   ],
   "film_gratis": [
-    {"ora": "21:15", "canale": "La7 Cinema", "titolo": "Revenant – Redivivo", "anno": 2015, "rt": 78, "nota": "DiCaprio da Oscar, sopravvivenza brutale nella natura selvaggia"},
-    {"ora": "21:15", "canale": "Iris", "titolo": "Eyes Wide Shut", "anno": 1999, "rt": 79, "nota": "Ultimo Kubrick, Cruise e Kidman in un enigma notturno"},
-    {"ora": "21:27", "canale": "Italia 1", "titolo": "La guerra di domani", "anno": 2021, "rt": 51, "nota": "Chris Pratt contro alieni dal futuro, action senza pretese"},
-    {"ora": "21:00", "canale": "Cine34", "titolo": "Simpatici e antipatici", "anno": 1998, "nota": "Christian De Sica, commedia corale all'italiana"}
+    {"ora": "21:15", "canale": "Iris", "titolo": "Beverly Hills Cop – Un piedipiatti a Beverly Hills", "anno": 1984, "rt": 83, "nota": "Eddie Murphy scatenato, action-comedy anni '80 perfetta"},
+    {"ora": "21:15", "canale": "La7 Cinema", "titolo": "Mississippi Burning – Le radici dell'odio", "anno": 1988, "rt": 79, "nota": "Alan Parker, Hackman e Dafoe indagano nel Sud razzista"},
+    {"ora": "21:10", "canale": "20", "titolo": "Troy", "anno": 2004, "rt": 52, "nota": "Brad Pitt è Achille, kolossal epico senza troppe sfumature"},
+    {"ora": "23:40", "canale": "La7 Cinema", "titolo": "American Beauty", "anno": 1999, "rt": 87, "nota": "Sam Mendes, cinque Oscar, satira amara della periferia americana"}
   ],
   "fonti": [
-    "https://www.maridacaterini.it/programmazione-tv/496487-stasera-in-tv-mercoledi-11-novembre-2026-cosa-vedere-guida-tv.html",
-    "https://www.dituttounpop.it/guida-tv-mercoledi-11-novembre-2026-cosa-vedere-stasera-in-tv/",
-    "https://cpop.it/notizie/guida-tv-mercoledi-11-novembre-2026-cosa-vedere-stasera-in-tv",
-    "https://cpop.it/notizie/sport-in-tv-oggi-mercoledi-11-novembre-2026-orari-e-canali-di-calcio-tennis-e-volley",
-    "https://www.mymovies.it/cinemanews/2026/197500/",
-    "https://www.rottentomatoes.com/m/wall_e",
-    "https://www.rottentomatoes.com/m/jurassic_park",
-    "https://www.rottentomatoes.com/m/guardians_of_the_galaxy",
-    "https://www.rottentomatoes.com/m/the_revenant_2015",
-    "https://www.rottentomatoes.com/m/eyes_wide_shut",
-    "https://www.rottentomatoes.com/m/the_tomorrow_war"
+    "https://www.maridacaterini.it/programmazione-tv/496529-stasera-in-tv-giovedi-12-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.mymovies.it/cinemanews/2026/197502/",
+    "https://cpop.it/notizie/sport-in-tv-oggi-giovedi-12-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
+    "https://cpop.it/notizie/dove-vedere-italia-francia-di-nations-league-stasera-orario-canale-e-streaming",
+    "https://editorial.rottentomatoes.com/guide/all-star-wars-movies-ranked/",
+    "https://www.rottentomatoes.com/m/1197696-fantastic_mr_fox",
+    "https://www.rottentomatoes.com/m/spirited_away",
+    "https://www.rottentomatoes.com/m/beverly_hills_cop",
+    "https://www.rottentomatoes.com/m/mississippi_burning",
+    "https://www.rottentomatoes.com/m/troy",
+    "https://www.rottentomatoes.com/m/american_beauty"
   ]
 }
