@@ -1,36 +1,38 @@
 {
-  "giorno": "2026-11-12",
-  "generato": "2026-11-12T09:00:00+01:00",
-  "titolo": "Giovedì con Italia–Francia su Rai 1, Olimpia in EuroLeague, Le Iene e Piazzapulita",
+  "giorno": "2026-11-13",
+  "generato": "2026-11-13T09:00:00+01:00",
+  "titolo": "Venerdì con Serbia–Germania in chiaro, EuroLeague, rugby, Quarto Grado e Propaganda Live",
   "in_evidenza": [
-    {"ora": "20:45", "canale": "Rai 1", "titolo": "Italia – Francia", "tipo": "partita", "nota": "Nations League a San Siro, in chiaro e su RaiPlay"},
-    {"ora": "20:35", "canale": "Sky Sport Uno", "titolo": "Inghilterra – Croazia", "tipo": "partita", "nota": "Nations League, quinta giornata, in diretta"},
-    {"ora": "20:30", "canale": "Sky Sport Basket", "titolo": "Olimpia Milano – Zalgiris Kaunas", "tipo": "partita", "nota": "EuroLeague di basket, in diretta"},
-    {"ora": "21:15", "canale": "Italia 1", "titolo": "Le Iene", "tipo": "inchiesta", "nota": "Veronica Gentili conduce servizi e inchieste"},
-    {"ora": "21:15", "canale": "La7", "titolo": "Piazzapulita", "tipo": "inchiesta", "nota": "Corrado Formigli tra attualità, politica e reportage"}
+    {"ora": "20:45", "canale": "20 Mediaset / Sky Sport Uno", "titolo": "Serbia – Germania", "tipo": "partita", "nota": "Nations League a Belgrado, in chiaro su 20 e Mediaset Infinity"},
+    {"ora": "20:30", "canale": "Sky Sport Basket", "titolo": "Panathinaikos – Barcellona", "tipo": "partita", "nota": "EuroLeague di basket, big match ad Atene in diretta"},
+    {"ora": "21:10", "canale": "Sky Sport Arena", "titolo": "Francia – Sudafrica", "tipo": "sport", "nota": "Rugby, Nations Championship: sfida tra giganti in diretta"},
+    {"ora": "21:30", "canale": "Rete 4", "titolo": "Quarto Grado", "tipo": "inchiesta", "nota": "Nuzzi e Viero sui grandi casi di cronaca nera"},
+    {"ora": "21:15", "canale": "La7", "titolo": "Propaganda Live", "tipo": "show", "nota": "Diego Bianchi tra satira, reportage, interviste e musica"}
   ],
   "cult": [
-    {"titolo": "Guerre stellari", "anno": 1977, "rt": 93, "nota": "Lucas apre la saga: Luke, Leia, Han e la Morte Nera"},
-    {"titolo": "Fantastic Mr. Fox", "anno": 2009, "rt": 93, "nota": "Wes Anderson in stop-motion, volpe ladra e irresistibile"},
-    {"titolo": "La città incantata", "anno": 2001, "rt": 96, "nota": "Miyazaki, capolavoro Ghibli premiato con l'Oscar"}
+    {"titolo": "Toy Story 2 – Woody e Buzz alla riscossa", "anno": 1999, "rt": 100, "nota": "Pixar perfetta: Woody rapito, Buzz guida il salvataggio"},
+    {"titolo": "Paddington", "anno": 2014, "rt": 96, "nota": "Orsetto peruviano a Londra, commedia tenerissima e spassosa"},
+    {"titolo": "Mission: Impossible – Dead Reckoning Parte uno", "anno": 2023, "rt": 96, "nota": "Tom Cruise contro un'IA, stunt in moto da urlo"}
   ],
   "film_gratis": [
-    {"ora": "21:15", "canale": "Iris", "titolo": "Beverly Hills Cop – Un piedipiatti a Beverly Hills", "anno": 1984, "rt": 83, "nota": "Eddie Murphy scatenato, action-comedy anni '80 perfetta"},
-    {"ora": "21:15", "canale": "La7 Cinema", "titolo": "Mississippi Burning – Le radici dell'odio", "anno": 1988, "rt": 79, "nota": "Alan Parker, Hackman e Dafoe indagano nel Sud razzista"},
-    {"ora": "21:10", "canale": "20", "titolo": "Troy", "anno": 2004, "rt": 52, "nota": "Brad Pitt è Achille, kolossal epico senza troppe sfumature"},
-    {"ora": "23:40", "canale": "La7 Cinema", "titolo": "American Beauty", "anno": 1999, "rt": 87, "nota": "Sam Mendes, cinque Oscar, satira amara della periferia americana"}
+    {"ora": "21:25", "canale": "Italia 1", "titolo": "Harry Potter e la camera dei segreti", "anno": 2002, "rt": 82, "nota": "Secondo capitolo della saga, magia e mistero a Hogwarts"},
+    {"ora": "21:15", "canale": "Twentyseven", "titolo": "40 anni vergine", "anno": 2005, "rt": 85, "nota": "Steve Carell irresistibile nella commedia di Judd Apatow"},
+    {"ora": "21:15", "canale": "La7 Cinema", "titolo": "Fury", "anno": 1978, "rt": 79, "nota": "Brian De Palma, thriller paranormale nervoso e ardito"},
+    {"ora": "21:20", "canale": "Rai 4", "titolo": "La furia di un uomo – Wrath of Man", "anno": 2021, "rt": 68, "nota": "Guy Ritchie e Jason Statham, action secco e violento"}
   ],
   "fonti": [
-    "https://www.maridacaterini.it/programmazione-tv/496529-stasera-in-tv-giovedi-12-novembre-2026-cosa-vedere-guida-tv.html",
-    "https://www.mymovies.it/cinemanews/2026/197502/",
-    "https://cpop.it/notizie/sport-in-tv-oggi-giovedi-12-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
-    "https://cpop.it/notizie/dove-vedere-italia-francia-di-nations-league-stasera-orario-canale-e-streaming",
-    "https://editorial.rottentomatoes.com/guide/all-star-wars-movies-ranked/",
-    "https://www.rottentomatoes.com/m/1197696-fantastic_mr_fox",
-    "https://www.rottentomatoes.com/m/spirited_away",
-    "https://www.rottentomatoes.com/m/beverly_hills_cop",
-    "https://www.rottentomatoes.com/m/mississippi_burning",
-    "https://www.rottentomatoes.com/m/troy",
-    "https://www.rottentomatoes.com/m/american_beauty"
+    "https://www.maridacaterini.it/programmazione-tv/496589-stasera-in-tv-venerdi-13-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-venerdi-13-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://www.mymovies.it/cinemanews/2026/197503/",
+    "https://cpop.it/notizie/sport-in-tv-oggi-venerdi-13-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
+    "https://cpop.it/notizie/dove-vedere-serbia-germania-oggi-13-novembre-orario-canali-tv-e-streaming-della-nations-league",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-venerdi-13-novembre-nations-league-tennis-rugby-e-basket-979959",
+    "https://www.rottentomatoes.com/m/toy_story_2",
+    "https://www.rottentomatoes.com/m/paddington",
+    "https://www.rottentomatoes.com/m/mission_impossible_dead_reckoning_part_one",
+    "https://www.rottentomatoes.com/m/harry_potter_and_the_chamber_of_secrets",
+    "https://www.rottentomatoes.com/m/the_40_year_old_virgin",
+    "https://www.rottentomatoes.com/m/1008015-fury",
+    "https://www.rottentomatoes.com/m/wrath_of_man"
   ]
 }
