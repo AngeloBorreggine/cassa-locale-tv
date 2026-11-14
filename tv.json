@@ -1,38 +1,36 @@
 {
-  "giorno": "2026-11-13",
-  "generato": "2026-11-13T09:00:00+01:00",
-  "titolo": "Venerdì con Serbia–Germania in chiaro, EuroLeague, rugby, Quarto Grado e Propaganda Live",
+  "giorno": "2026-11-14",
+  "generato": "2026-11-14T09:00:00+01:00",
+  "titolo": "Sabato con Portogallo–Danimarca in chiaro su TV8, WTA Finals, Ballando e talk",
   "in_evidenza": [
-    {"ora": "20:45", "canale": "20 Mediaset / Sky Sport Uno", "titolo": "Serbia – Germania", "tipo": "partita", "nota": "Nations League a Belgrado, in chiaro su 20 e Mediaset Infinity"},
-    {"ora": "20:30", "canale": "Sky Sport Basket", "titolo": "Panathinaikos – Barcellona", "tipo": "partita", "nota": "EuroLeague di basket, big match ad Atene in diretta"},
-    {"ora": "21:10", "canale": "Sky Sport Arena", "titolo": "Francia – Sudafrica", "tipo": "sport", "nota": "Rugby, Nations Championship: sfida tra giganti in diretta"},
-    {"ora": "21:30", "canale": "Rete 4", "titolo": "Quarto Grado", "tipo": "inchiesta", "nota": "Nuzzi e Viero sui grandi casi di cronaca nera"},
-    {"ora": "21:15", "canale": "La7", "titolo": "Propaganda Live", "tipo": "show", "nota": "Diego Bianchi tra satira, reportage, interviste e musica"}
+    {"ora": "20:45", "canale": "TV8 / Sky Sport Uno", "titolo": "Portogallo – Danimarca", "tipo": "partita", "nota": "Nations League in chiaro su TV8, streaming su TV8.it"},
+    {"ora": "21:00", "canale": "Sky Sport Tennis", "titolo": "WTA Finals – prima semifinale", "tipo": "sport", "nota": "Indian Wells, semifinale singolare; seconda alle 23:00"},
+    {"ora": "21:30", "canale": "Nove", "titolo": "Accordi & disaccordi", "tipo": "inchiesta", "nota": "Sommi e Scanzi tra politica e attualità"},
+    {"ora": "20:35", "canale": "La7", "titolo": "In altre parole", "tipo": "inchiesta", "nota": "Massimo Gramellini racconta la settimana con ospiti"},
+    {"ora": "21:30", "canale": "Rai 1", "titolo": "Ballando con le Stelle", "tipo": "show", "nota": "Milly Carlucci sfida Tu sì que vales su Canale 5"}
   ],
   "cult": [
-    {"titolo": "Toy Story 2 – Woody e Buzz alla riscossa", "anno": 1999, "rt": 100, "nota": "Pixar perfetta: Woody rapito, Buzz guida il salvataggio"},
-    {"titolo": "Paddington", "anno": 2014, "rt": 96, "nota": "Orsetto peruviano a Londra, commedia tenerissima e spassosa"},
-    {"titolo": "Mission: Impossible – Dead Reckoning Parte uno", "anno": 2023, "rt": 96, "nota": "Tom Cruise contro un'IA, stunt in moto da urlo"}
+    {"titolo": "Prova a prendermi", "anno": 2002, "rt": 96, "nota": "DiCaprio truffatore geniale, Hanks lo bracca: Spielberg brillante"},
+    {"titolo": "The LEGO Movie", "anno": 2014, "rt": 96, "nota": "Animazione folle e satirica, tutto è fantastico davvero"},
+    {"titolo": "Mad Max 2 – Il guerriero della strada", "anno": 1981, "rt": 93, "nota": "Mel Gibson nel deserto post-apocalittico, inseguimenti leggendari"}
   ],
   "film_gratis": [
-    {"ora": "21:25", "canale": "Italia 1", "titolo": "Harry Potter e la camera dei segreti", "anno": 2002, "rt": 82, "nota": "Secondo capitolo della saga, magia e mistero a Hogwarts"},
-    {"ora": "21:15", "canale": "Twentyseven", "titolo": "40 anni vergine", "anno": 2005, "rt": 85, "nota": "Steve Carell irresistibile nella commedia di Judd Apatow"},
-    {"ora": "21:15", "canale": "La7 Cinema", "titolo": "Fury", "anno": 1978, "rt": 79, "nota": "Brian De Palma, thriller paranormale nervoso e ardito"},
-    {"ora": "21:20", "canale": "Rai 4", "titolo": "La furia di un uomo – Wrath of Man", "anno": 2021, "rt": 68, "nota": "Guy Ritchie e Jason Statham, action secco e violento"}
+    {"ora": "21:15", "canale": "La7 Cinema", "titolo": "007 – Zona pericolo", "anno": 1987, "rt": 77, "nota": "Timothy Dalton esordisce come Bond, spionaggio solido"},
+    {"ora": "21:33", "canale": "Rete 4", "titolo": "The Bourne Legacy", "anno": 2012, "rt": 56, "nota": "Jeremy Renner nello spin-off di Bourne, azione discreta"},
+    {"ora": "21:30", "canale": "Italia 1", "titolo": "Animali fantastici – I crimini di Grindelwald", "anno": 2018, "rt": 36, "nota": "Mondo di Harry Potter, effetti ricchi ma trama confusa"}
   ],
   "fonti": [
-    "https://www.maridacaterini.it/programmazione-tv/496589-stasera-in-tv-venerdi-13-novembre-2026-cosa-vedere-guida-tv.html",
-    "https://www.dituttounpop.it/guida-tv-venerdi-13-novembre-2026-cosa-vedere-stasera-in-tv/",
-    "https://www.mymovies.it/cinemanews/2026/197503/",
-    "https://cpop.it/notizie/sport-in-tv-oggi-venerdi-13-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
-    "https://cpop.it/notizie/dove-vedere-serbia-germania-oggi-13-novembre-orario-canali-tv-e-streaming-della-nations-league",
-    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-venerdi-13-novembre-nations-league-tennis-rugby-e-basket-979959",
-    "https://www.rottentomatoes.com/m/toy_story_2",
-    "https://www.rottentomatoes.com/m/paddington",
-    "https://www.rottentomatoes.com/m/mission_impossible_dead_reckoning_part_one",
-    "https://www.rottentomatoes.com/m/harry_potter_and_the_chamber_of_secrets",
-    "https://www.rottentomatoes.com/m/the_40_year_old_virgin",
-    "https://www.rottentomatoes.com/m/1008015-fury",
-    "https://www.rottentomatoes.com/m/wrath_of_man"
+    "https://www.maridacaterini.it/programmazione-tv/496688-stasera-in-tv-sabato-14-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-sabato-14-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://www.mymovies.it/cinemanews/2026/197535/",
+    "https://cpop.it/notizie/sport-in-tv-oggi-sabato-14-novembre-2026-orari-e-canali-di-calcio-tennis-e-volley",
+    "https://cpop.it/notizie/dove-vedere-portogallo-danimarca-oggi-14-novembre-orario-tv-e-streaming-della-nations-league",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-sabato-14-novembre-nations-league-sci-alpino-basket-volley-e-wta-finals-980104",
+    "https://www.rottentomatoes.com/m/catch_me_if_you_can",
+    "https://www.rottentomatoes.com/m/the_lego_movie",
+    "https://www.rottentomatoes.com/m/mad_max_2_the_road_warrior",
+    "https://www.rottentomatoes.com/m/living_daylights",
+    "https://www.rottentomatoes.com/m/the_bourne_legacy",
+    "https://www.rottentomatoes.com/m/fantastic_beasts_the_crimes_of_grindelwald"
   ]
 }
