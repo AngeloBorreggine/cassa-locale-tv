@@ -1,0 +1,38 @@
+{
+  "giorno": "2026-11-15",
+  "generato": "2026-11-15T09:00:00+01:00",
+  "titolo": "Domenica con Belgio–Italia su Rai 1, ATP Finals serali, Report e Fazio",
+  "in_evidenza": [
+    {"ora": "20:45", "canale": "Rai 1", "titolo": "Belgio – Italia", "tipo": "partita", "nota": "Nations League, ultima giornata del girone, in chiaro da Bruxelles"},
+    {"ora": "20:45", "canale": "Sky Sport Mix", "titolo": "Spagna – Inghilterra", "tipo": "partita", "nota": "Nations League, big match in contemporanea; Francia–Turchia su Sky Sport Max"},
+    {"ora": "20:30", "canale": "Sky Sport Uno / Sky Sport Tennis", "titolo": "ATP Finals Torino – sessione serale", "tipo": "sport", "nota": "Singolare serale in diretta dal Pala Alpitour"},
+    {"ora": "21:00", "canale": "Rai 3", "titolo": "Report", "tipo": "inchiesta", "nota": "Sigfrido Ranucci sul futuro e la ricostruzione di Gaza"},
+    {"ora": "20:00", "canale": "Nove", "titolo": "Che tempo che fa", "tipo": "show", "nota": "Fazio e Littizzetto, ospiti Elisa e Ficarra e Picone"}
+  ],
+  "cult": [
+    {"titolo": "Terminator", "anno": 1984, "rt": 90, "nota": "Cameron e Schwarzenegger, cyborg dal futuro: fantascienza tesa e cupa"},
+    {"titolo": "Il re leone", "anno": 1994, "rt": 92, "nota": "Classico Disney, Simba e Hakuna Matata: emozione garantita"},
+    {"titolo": "District 9", "anno": 2009, "rt": 90, "nota": "Alieni segregati a Johannesburg, fantascienza sporca e originale"}
+  ],
+  "film_gratis": [
+    {"ora": "21:15", "canale": "La7 Cinema", "titolo": "Rain Man – L'uomo della pioggia", "anno": 1988, "rt": 88, "nota": "Hoffman e Cruise, fratelli in viaggio: quattro Oscar meritati"},
+    {"ora": "21:20", "canale": "Cielo", "titolo": "Kill Bill – Volume 1", "anno": 2003, "rt": 85, "nota": "Tarantino, Uma Thurman e la katana: vendetta pop spettacolare"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "Indiana Jones e il regno del teschio di cristallo", "anno": 2008, "rt": 77, "nota": "Harrison Ford torna con frusta e cappello, avventura leggera"},
+    {"ora": "21:10", "canale": "20", "titolo": "Greenland", "anno": 2020, "nota": "Gerard Butler in fuga da una cometa, catastrofico teso"}
+  ],
+  "fonti": [
+    "https://www.maridacaterini.it/programmazione-tv/496802-stasera-in-tv-domenica-15-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-domenica-15-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://www.mymovies.it/cinemanews/2026/197536/",
+    "https://cpop.it/notizie/sport-in-tv-oggi-domenica-15-novembre-2026-orari-e-canali-di-calcio-tennis-e-volley",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-domenica-15-novembre-sci-nations-league-volley-donne-980196",
+    "https://www.virgilio.it/sport/nations-league-le-partite-di-oggi-dove-vedere-spagna-inghilterra-e-francia-turchia-980173",
+    "https://cpop.it/notizie/dove-vedere-che-tempo-che-fa-stasera-15-novembre-2026-orario-nove-e-streaming-ospiti-elisa-ficarra-e-picone",
+    "https://www.rottentomatoes.com/m/terminator",
+    "https://www.rottentomatoes.com/m/the_lion_king",
+    "https://www.rottentomatoes.com/m/district_9",
+    "https://www.rottentomatoes.com/m/rain_man",
+    "https://www.rottentomatoes.com/m/kill_bill_vol_1",
+    "https://www.rottentomatoes.com/m/indiana_jones_and_the_kingdom_of_the_crystal_skull"
+  ]
+}
