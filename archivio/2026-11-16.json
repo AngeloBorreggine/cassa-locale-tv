@@ -1,0 +1,38 @@
+{
+  "giorno": "2026-11-16",
+  "generato": "2026-11-16T09:00:00+01:00",
+  "titolo": "Lunedì con Germania–Olanda in chiaro, Cobolli alle ATP Finals e Giletti",
+  "in_evidenza": [
+    {"ora": "20:45", "canale": "20 / Sky Sport Arena", "titolo": "Germania – Olanda", "tipo": "partita", "nota": "Nations League, big match in chiaro su 20 Mediaset"},
+    {"ora": "20:30", "canale": "Italia 1 / Sky Sport Uno", "titolo": "ATP Finals: Cobolli – Medvedev", "tipo": "sport", "nota": "Esordio di Cobolli a Torino, non prima delle 20:30"},
+    {"ora": "21:15", "canale": "Rai 3", "titolo": "Lo Stato delle Cose", "tipo": "inchiesta", "nota": "Massimo Giletti tra inchieste e attualità"},
+    {"ora": "21:30", "canale": "Rete 4", "titolo": "Quarta Repubblica", "tipo": "inchiesta", "nota": "Nicola Porro su politica ed economia"},
+    {"ora": "21:50", "canale": "TV8", "titolo": "GialappaShow", "tipo": "show", "nota": "Mago Forest e la Gialappa's tra sketch e parodie"}
+  ],
+  "cult": [
+    {"titolo": "Toy Story 3 – La grande fuga", "anno": 2010, "rt": 98, "nota": "Woody e Buzz all'asilo-prigione: risate e lacrime finali"},
+    {"titolo": "L'aereo più pazzo del mondo", "anno": 1980, "rt": 97, "nota": "Parodia demenziale a raffica, una gag ogni dieci secondi"},
+    {"titolo": "Logan – The Wolverine", "anno": 2017, "rt": 93, "nota": "Jackman, ultimo Wolverine: western supereroico crudo e commovente"}
+  ],
+  "film_gratis": [
+    {"ora": "21:15", "canale": "La7", "titolo": "The Apprentice – Alle origini di Trump", "anno": 2024, "nota": "Prima tv: Sebastian Stan è il giovane Trump, regia Abbasi"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Cielo giallo", "anno": 1948, "rt": 100, "nota": "Gregory Peck, rapinatori in città fantasma: western classico solido"},
+    {"ora": "21:10", "canale": "Twentyseven", "titolo": "Doc Hollywood – Dottore in carriera", "anno": 1991, "rt": 66, "nota": "Michael J. Fox medico in provincia, commedia leggera"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "Midway", "anno": 2019, "rt": 42, "nota": "Emmerich e la battaglia del Pacifico: spettacolo bellico"}
+  ],
+  "fonti": [
+    "https://www.maridacaterini.it/programmazione-tv/496845-stasera-in-tv-lunedi-16-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-lunedi-16-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/guida-tv-lunedi-16-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://cpop.it/notizie/sport-in-tv-oggi-lunedi-16-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-lunedi-16-novembre-nations-league-italia-u-20-e-atp-finals-980310",
+    "https://cpop.it/notizie/dove-vedere-germania-olanda-oggi-orario-canali-tv-e-streaming-della-nations-league",
+    "https://cpop.it/notizie/dove-vedere-cobolli-medvedev-oggi-alle-atp-finals-2026-orario-tv-e-streaming",
+    "https://www.rottentomatoes.com/m/toy_story_3",
+    "https://www.rottentomatoes.com/m/airplane",
+    "https://www.rottentomatoes.com/m/logan_2017",
+    "https://www.rottentomatoes.com/m/yellow_sky",
+    "https://www.rottentomatoes.com/m/doc_hollywood",
+    "https://www.rottentomatoes.com/m/midway_2019"
+  ]
+}
