@@ -1,38 +1,35 @@
 {
-  "giorno": "2026-11-16",
-  "generato": "2026-11-16T09:00:00+01:00",
-  "titolo": "Lunedì con Germania–Olanda in chiaro, Cobolli alle ATP Finals e Giletti",
+  "giorno": "2026-11-17",
+  "generato": "2026-11-17T09:00:00+01:00",
+  "titolo": "Martedì con Zverev–Shelton in chiaro, Nations League su Cielo e X Factor",
   "in_evidenza": [
-    {"ora": "20:45", "canale": "20 / Sky Sport Arena", "titolo": "Germania – Olanda", "tipo": "partita", "nota": "Nations League, big match in chiaro su 20 Mediaset"},
-    {"ora": "20:30", "canale": "Italia 1 / Sky Sport Uno", "titolo": "ATP Finals: Cobolli – Medvedev", "tipo": "sport", "nota": "Esordio di Cobolli a Torino, non prima delle 20:30"},
-    {"ora": "21:15", "canale": "Rai 3", "titolo": "Lo Stato delle Cose", "tipo": "inchiesta", "nota": "Massimo Giletti tra inchieste e attualità"},
-    {"ora": "21:30", "canale": "Rete 4", "titolo": "Quarta Repubblica", "tipo": "inchiesta", "nota": "Nicola Porro su politica ed economia"},
-    {"ora": "21:50", "canale": "TV8", "titolo": "GialappaShow", "tipo": "show", "nota": "Mago Forest e la Gialappa's tra sketch e parodie"}
+    {"ora": "20:30", "canale": "Italia 1 / Sky Sport Uno", "titolo": "ATP Finals: Zverev – Shelton", "tipo": "sport", "nota": "Sessione serale a Torino in chiaro, non prima delle 20:30"},
+    {"ora": "20:45", "canale": "Cielo / Sky Sport Max", "titolo": "Danimarca – Norvegia", "tipo": "partita", "nota": "Nations League in chiaro su Cielo"},
+    {"ora": "20:30", "canale": "Sky Sport Basket", "titolo": "Olimpia Milano – Stella Rossa", "tipo": "sport", "nota": "Eurolega, sfida di vertice al Forum"},
+    {"ora": "21:15", "canale": "La7", "titolo": "diMartedì", "tipo": "inchiesta", "nota": "Giovanni Floris tra politica e attualità"},
+    {"ora": "21:40", "canale": "TV8", "titolo": "X Factor 2026", "tipo": "show", "nota": "Nuovo live del talent musicale, in chiaro su TV8"}
   ],
   "cult": [
-    {"titolo": "Toy Story 3 – La grande fuga", "anno": 2010, "rt": 98, "nota": "Woody e Buzz all'asilo-prigione: risate e lacrime finali"},
-    {"titolo": "L'aereo più pazzo del mondo", "anno": 1980, "rt": 97, "nota": "Parodia demenziale a raffica, una gag ogni dieci secondi"},
-    {"titolo": "Logan – The Wolverine", "anno": 2017, "rt": 93, "nota": "Jackman, ultimo Wolverine: western supereroico crudo e commovente"}
+    {"titolo": "L'Impero colpisce ancora", "anno": 1980, "rt": 93, "nota": "Il capitolo più amato di Star Wars, colpo di scena storico"},
+    {"titolo": "Spider-Man 2", "anno": 2004, "rt": 93, "nota": "Raimi al top: Tobey Maguire contro il Dottor Octopus"},
+    {"titolo": "Mission: Impossible – Protocollo fantasma", "anno": 2011, "rt": 93, "nota": "Tom Cruise scala il Burj Khalifa: azione spettacolare"}
   ],
   "film_gratis": [
-    {"ora": "21:15", "canale": "La7", "titolo": "The Apprentice – Alle origini di Trump", "anno": 2024, "nota": "Prima tv: Sebastian Stan è il giovane Trump, regia Abbasi"},
-    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Cielo giallo", "anno": 1948, "rt": 100, "nota": "Gregory Peck, rapinatori in città fantasma: western classico solido"},
-    {"ora": "21:10", "canale": "Twentyseven", "titolo": "Doc Hollywood – Dottore in carriera", "anno": 1991, "rt": 66, "nota": "Michael J. Fox medico in provincia, commedia leggera"},
-    {"ora": "21:15", "canale": "Iris", "titolo": "Midway", "anno": 2019, "rt": 42, "nota": "Emmerich e la battaglia del Pacifico: spettacolo bellico"}
+    {"ora": "21:15", "canale": "Twentyseven", "titolo": "The Mask – Da zero a mito", "anno": 1994, "nota": "Jim Carrey scatenato, commedia cartoon irresistibile"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "Il pistolero", "anno": 1976, "rt": 79, "nota": "Ultimo film di John Wayne, western crepuscolare di Siegel"},
+    {"ora": "21:10", "canale": "20", "titolo": "Unknown – Senza identità", "anno": 2011, "rt": 56, "nota": "Liam Neeson senza identità a Berlino, thriller teso"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "The Gunman", "anno": 2015, "nota": "Sean Penn ex mercenario braccato, action solido"}
   ],
   "fonti": [
-    "https://www.maridacaterini.it/programmazione-tv/496845-stasera-in-tv-lunedi-16-novembre-2026-cosa-vedere-guida-tv.html",
-    "https://www.dituttounpop.it/guida-tv-lunedi-16-novembre-2026-cosa-vedere-stasera-in-tv/",
-    "https://cpop.it/notizie/guida-tv-lunedi-16-novembre-2026-cosa-vedere-stasera-in-tv",
-    "https://cpop.it/notizie/sport-in-tv-oggi-lunedi-16-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
-    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-lunedi-16-novembre-nations-league-italia-u-20-e-atp-finals-980310",
-    "https://cpop.it/notizie/dove-vedere-germania-olanda-oggi-orario-canali-tv-e-streaming-della-nations-league",
-    "https://cpop.it/notizie/dove-vedere-cobolli-medvedev-oggi-alle-atp-finals-2026-orario-tv-e-streaming",
-    "https://www.rottentomatoes.com/m/toy_story_3",
-    "https://www.rottentomatoes.com/m/airplane",
-    "https://www.rottentomatoes.com/m/logan_2017",
-    "https://www.rottentomatoes.com/m/yellow_sky",
-    "https://www.rottentomatoes.com/m/doc_hollywood",
-    "https://www.rottentomatoes.com/m/midway_2019"
+    "https://www.dituttounpop.it/guida-tv-martedi-17-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/guida-tv-martedi-17-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://cpop.it/notizie/sport-in-tv-oggi-martedi-17-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-martedi-17-novembre-atp-finals-coppa-d-africa-basket-980463",
+    "https://cpop.it/notizie/dove-vedere-zverev-shelton-alle-atp-finals-oggi-17-novembre-orario-tv-e-streaming",
+    "https://www.rottentomatoes.com/m/star_wars_episode_v_the_empire_strikes_back",
+    "https://www.rottentomatoes.com/m/spiderman_2",
+    "https://www.rottentomatoes.com/m/mission_impossible_ghost_protocol",
+    "https://www.rottentomatoes.com/m/shootist",
+    "https://www.rottentomatoes.com/m/unknown_2011"
   ]
 }
