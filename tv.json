@@ -1,35 +1,35 @@
 {
-  "giorno": "2026-11-17",
-  "generato": "2026-11-17T09:00:00+01:00",
-  "titolo": "Martedì con Zverev–Shelton in chiaro, Nations League su Cielo e X Factor",
+  "giorno": "2026-11-18",
+  "generato": "2026-11-18T09:00:00+01:00",
+  "titolo": "Mercoledì con Cobolli–Tiafoe in chiaro, Chi l'ha visto? e Tale e Quale Show",
   "in_evidenza": [
-    {"ora": "20:30", "canale": "Italia 1 / Sky Sport Uno", "titolo": "ATP Finals: Zverev – Shelton", "tipo": "sport", "nota": "Sessione serale a Torino in chiaro, non prima delle 20:30"},
-    {"ora": "20:45", "canale": "Cielo / Sky Sport Max", "titolo": "Danimarca – Norvegia", "tipo": "partita", "nota": "Nations League in chiaro su Cielo"},
-    {"ora": "20:30", "canale": "Sky Sport Basket", "titolo": "Olimpia Milano – Stella Rossa", "tipo": "sport", "nota": "Eurolega, sfida di vertice al Forum"},
-    {"ora": "21:15", "canale": "La7", "titolo": "diMartedì", "tipo": "inchiesta", "nota": "Giovanni Floris tra politica e attualità"},
-    {"ora": "21:40", "canale": "TV8", "titolo": "X Factor 2026", "tipo": "show", "nota": "Nuovo live del talent musicale, in chiaro su TV8"}
+    {"ora": "20:30", "canale": "Italia 1 / Sky Sport Uno", "titolo": "ATP Finals: Cobolli – Tiafoe", "tipo": "sport", "nota": "Sessione serale a Torino in chiaro, non prima delle 20:30"},
+    {"ora": "21:15", "canale": "Rai 3", "titolo": "Chi l'ha visto?", "tipo": "inchiesta", "nota": "Federica Sciarelli tra casi di cronaca e persone scomparse"},
+    {"ora": "21:30", "canale": "Rete 4", "titolo": "È sempre Cartabianca", "tipo": "inchiesta", "nota": "Bianca Berlinguer tra politica e attualità"},
+    {"ora": "21:30", "canale": "Rai 1", "titolo": "Tale e Quale Show", "tipo": "show", "nota": "Carlo Conti e le imitazioni dei vip"},
+    {"ora": "21:15", "canale": "Cielo / Sky Uno", "titolo": "X Factor 2026", "tipo": "show", "nota": "Nuova puntata del talent musicale, anche in chiaro su Cielo"}
   ],
   "cult": [
-    {"titolo": "L'Impero colpisce ancora", "anno": 1980, "rt": 93, "nota": "Il capitolo più amato di Star Wars, colpo di scena storico"},
-    {"titolo": "Spider-Man 2", "anno": 2004, "rt": 93, "nota": "Raimi al top: Tobey Maguire contro il Dottor Octopus"},
-    {"titolo": "Mission: Impossible – Protocollo fantasma", "anno": 2011, "rt": 93, "nota": "Tom Cruise scala il Burj Khalifa: azione spettacolare"}
+    {"titolo": "Mission: Impossible – Rogue Nation", "anno": 2015, "rt": 94, "nota": "Tom Cruise appeso a un aereo, Rebecca Ferguson strepitosa"},
+    {"titolo": "Monsters & Co.", "anno": 2001, "rt": 96, "nota": "Pixar al top: Sulley, Mike e la piccola Boo"},
+    {"titolo": "Monty Python e il Sacro Graal", "anno": 1975, "rt": 92, "nota": "Re Artù secondo i Monty Python: comicità assurda leggendaria"}
   ],
   "film_gratis": [
-    {"ora": "21:15", "canale": "Twentyseven", "titolo": "The Mask – Da zero a mito", "anno": 1994, "nota": "Jim Carrey scatenato, commedia cartoon irresistibile"},
-    {"ora": "21:15", "canale": "Iris", "titolo": "Il pistolero", "anno": 1976, "rt": 79, "nota": "Ultimo film di John Wayne, western crepuscolare di Siegel"},
-    {"ora": "21:10", "canale": "20", "titolo": "Unknown – Senza identità", "anno": 2011, "rt": 56, "nota": "Liam Neeson senza identità a Berlino, thriller teso"},
-    {"ora": "21:10", "canale": "Rai Movie", "titolo": "The Gunman", "anno": 2015, "nota": "Sean Penn ex mercenario braccato, action solido"}
+    {"ora": "21:20", "canale": "Twentyseven", "titolo": "Ti presento i miei", "anno": 2000, "rt": 85, "nota": "Ben Stiller contro suocero De Niro, commedia irresistibile"},
+    {"ora": "21:10", "canale": "20", "titolo": "The Rock", "anno": 1996, "nota": "Connery e Cage ad Alcatraz, action anni '90 di culto"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "Schegge di paura", "anno": 1996, "nota": "Richard Gere ed Edward Norton, legal thriller con colpo finale"},
+    {"ora": "21:10", "canale": "La5", "titolo": "C'è post@ per te", "anno": 1998, "rt": 69, "nota": "Tom Hanks e Meg Ryan, rom-com leggera e piacevole"}
   ],
   "fonti": [
-    "https://www.dituttounpop.it/guida-tv-martedi-17-novembre-2026-cosa-vedere-stasera-in-tv/",
-    "https://cpop.it/notizie/guida-tv-martedi-17-novembre-2026-cosa-vedere-stasera-in-tv",
-    "https://cpop.it/notizie/sport-in-tv-oggi-martedi-17-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
-    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-martedi-17-novembre-atp-finals-coppa-d-africa-basket-980463",
-    "https://cpop.it/notizie/dove-vedere-zverev-shelton-alle-atp-finals-oggi-17-novembre-orario-tv-e-streaming",
-    "https://www.rottentomatoes.com/m/star_wars_episode_v_the_empire_strikes_back",
-    "https://www.rottentomatoes.com/m/spiderman_2",
-    "https://www.rottentomatoes.com/m/mission_impossible_ghost_protocol",
-    "https://www.rottentomatoes.com/m/shootist",
-    "https://www.rottentomatoes.com/m/unknown_2011"
+    "https://www.dituttounpop.it/guida-tv-mercoledi-18-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/guida-tv-mercoledi-18-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://www.maridacaterini.it/programmazione-tv/497508-stasera-in-tv-mercoledi-18-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://cpop.it/notizie/sport-in-tv-oggi-mercoledi-18-novembre-2026-orari-e-canali-di-calcio-basket-e-volley",
+    "https://cpop.it/notizie/dove-vedere-cobolli-tiafoe-oggi-alle-atp-finals-2026-orario-tv-e-streaming",
+    "https://www.rottentomatoes.com/m/mission_impossible_rogue_nation",
+    "https://www.rottentomatoes.com/m/monsters_inc",
+    "https://www.rottentomatoes.com/m/monty_python_and_the_holy_grail",
+    "https://www.rottentomatoes.com/m/meet_the_parents",
+    "https://www.rottentomatoes.com/m/youve_got_mail"
   ]
 }
