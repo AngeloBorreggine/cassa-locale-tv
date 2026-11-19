@@ -1,35 +1,38 @@
 {
-  "giorno": "2026-11-18",
-  "generato": "2026-11-18T09:00:00+01:00",
-  "titolo": "Mercoledì con Cobolli–Tiafoe in chiaro, Chi l'ha visto? e Tale e Quale Show",
+  "giorno": "2026-11-19",
+  "generato": "2026-11-19T09:00:00+01:00",
+  "titolo": "Giovedì con Zverev–Fils in chiaro, Olimpia in Eurolega e Piazzapulita",
   "in_evidenza": [
-    {"ora": "20:30", "canale": "Italia 1 / Sky Sport Uno", "titolo": "ATP Finals: Cobolli – Tiafoe", "tipo": "sport", "nota": "Sessione serale a Torino in chiaro, non prima delle 20:30"},
-    {"ora": "21:15", "canale": "Rai 3", "titolo": "Chi l'ha visto?", "tipo": "inchiesta", "nota": "Federica Sciarelli tra casi di cronaca e persone scomparse"},
-    {"ora": "21:30", "canale": "Rete 4", "titolo": "È sempre Cartabianca", "tipo": "inchiesta", "nota": "Bianca Berlinguer tra politica e attualità"},
-    {"ora": "21:30", "canale": "Rai 1", "titolo": "Tale e Quale Show", "tipo": "show", "nota": "Carlo Conti e le imitazioni dei vip"},
-    {"ora": "21:15", "canale": "Cielo / Sky Uno", "titolo": "X Factor 2026", "tipo": "show", "nota": "Nuova puntata del talent musicale, anche in chiaro su Cielo"}
+    {"ora": "20:30", "canale": "Italia 1 / Sky Sport Tennis", "titolo": "ATP Finals: Zverev – Fils", "tipo": "sport", "nota": "Sessione serale a Torino in chiaro, non prima delle 20:30"},
+    {"ora": "20:30", "canale": "Sky Sport", "titolo": "Eurolega: Olimpia Milano – Fenerbahçe", "tipo": "sport", "nota": "Basket di vertice, anche in streaming su NOW"},
+    {"ora": "21:15", "canale": "La7", "titolo": "Piazzapulita", "tipo": "inchiesta", "nota": "Corrado Formigli tra inchieste e attualità politica"},
+    {"ora": "21:30", "canale": "Rete 4", "titolo": "Dritto e rovescio", "tipo": "inchiesta", "nota": "Paolo Del Debbio tra politica e cronaca"},
+    {"ora": "21:15", "canale": "Sky Uno", "titolo": "X Factor 2026", "tipo": "show", "nota": "Nuovo Live Show del talent musicale"}
   ],
   "cult": [
-    {"titolo": "Mission: Impossible – Rogue Nation", "anno": 2015, "rt": 94, "nota": "Tom Cruise appeso a un aereo, Rebecca Ferguson strepitosa"},
-    {"titolo": "Monsters & Co.", "anno": 2001, "rt": 96, "nota": "Pixar al top: Sulley, Mike e la piccola Boo"},
-    {"titolo": "Monty Python e il Sacro Graal", "anno": 1975, "rt": 92, "nota": "Re Artù secondo i Monty Python: comicità assurda leggendaria"}
+    {"titolo": "Intrigo internazionale", "anno": 1959, "rt": 97, "nota": "Hitchcock e Cary Grant in fuga, l'aereo nel campo"},
+    {"titolo": "John Wick 4", "anno": 2023, "rt": 94, "nota": "Keanu Reeves, action coreografato da Parigi a Osaka"},
+    {"titolo": "Il mio vicino Totoro", "anno": 1988, "rt": 94, "nota": "Miyazaki puro: magia, gattobus e tanta tenerezza"}
   ],
   "film_gratis": [
-    {"ora": "21:20", "canale": "Twentyseven", "titolo": "Ti presento i miei", "anno": 2000, "rt": 85, "nota": "Ben Stiller contro suocero De Niro, commedia irresistibile"},
-    {"ora": "21:10", "canale": "20", "titolo": "The Rock", "anno": 1996, "nota": "Connery e Cage ad Alcatraz, action anni '90 di culto"},
-    {"ora": "21:15", "canale": "Iris", "titolo": "Schegge di paura", "anno": 1996, "nota": "Richard Gere ed Edward Norton, legal thriller con colpo finale"},
-    {"ora": "21:10", "canale": "La5", "titolo": "C'è post@ per te", "anno": 1998, "rt": 69, "nota": "Tom Hanks e Meg Ryan, rom-com leggera e piacevole"}
+    {"ora": "21:15", "canale": "La7 Cinema", "titolo": "Witness – Il testimone", "anno": 1985, "rt": 91, "nota": "Harrison Ford tra gli Amish, thriller di Peter Weir"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "Beverly Hills Cop II", "anno": 1987, "rt": 48, "nota": "Eddie Murphy scatenato, action-comedy di Tony Scott"},
+    {"ora": "21:40", "canale": "TV8", "titolo": "Salt", "anno": 2010, "nota": "Angelina Jolie spia in fuga, action senza respiro"},
+    {"ora": "21:15", "canale": "20", "titolo": "Killer Elite", "anno": 2011, "nota": "Statham, Clive Owen e De Niro: action di mestiere"}
   ],
   "fonti": [
-    "https://www.dituttounpop.it/guida-tv-mercoledi-18-novembre-2026-cosa-vedere-stasera-in-tv/",
-    "https://cpop.it/notizie/guida-tv-mercoledi-18-novembre-2026-cosa-vedere-stasera-in-tv",
-    "https://www.maridacaterini.it/programmazione-tv/497508-stasera-in-tv-mercoledi-18-novembre-2026-cosa-vedere-guida-tv.html",
-    "https://cpop.it/notizie/sport-in-tv-oggi-mercoledi-18-novembre-2026-orari-e-canali-di-calcio-basket-e-volley",
-    "https://cpop.it/notizie/dove-vedere-cobolli-tiafoe-oggi-alle-atp-finals-2026-orario-tv-e-streaming",
-    "https://www.rottentomatoes.com/m/mission_impossible_rogue_nation",
-    "https://www.rottentomatoes.com/m/monsters_inc",
-    "https://www.rottentomatoes.com/m/monty_python_and_the_holy_grail",
-    "https://www.rottentomatoes.com/m/meet_the_parents",
-    "https://www.rottentomatoes.com/m/youve_got_mail"
+    "https://www.maridacaterini.it/programmazione-tv/497543-stasera-in-tv-giovedi-19-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-giovedi-19-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/guida-tv-giovedi-19-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://cpop.it/notizie/sport-in-tv-oggi-giovedi-19-novembre-2026-orari-e-canali-di-calcio-tennis-e-motori",
+    "https://cpop.it/notizie/dove-vedere-zverev-fils-alle-atp-finals-oggi-19-novembre-orario-tv-e-streaming",
+    "https://cpop.it/notizie/dove-vedere-olimpia-milano-fenerbahce-oggi-19-novembre-orario-tv-e-streaming-eurolega",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-giovedi-19-novembre-atp-finals-ed-eurolega-di-basket-980759",
+    "https://www.mymovies.it/cinemanews/2026/197547/",
+    "https://www.rottentomatoes.com/m/north_by_northwest",
+    "https://www.rottentomatoes.com/m/john_wick_chapter_4",
+    "https://www.rottentomatoes.com/m/my_neighbor_totoro",
+    "https://www.rottentomatoes.com/m/1023854-witness",
+    "https://www.rottentomatoes.com/m/beverly_hills_cop_2"
   ]
 }
