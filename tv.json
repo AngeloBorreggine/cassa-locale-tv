@@ -1,38 +1,38 @@
 {
-  "giorno": "2026-11-19",
-  "generato": "2026-11-19T09:00:00+01:00",
-  "titolo": "Giovedì con Zverev–Fils in chiaro, Olimpia in Eurolega e Piazzapulita",
+  "giorno": "2026-11-20",
+  "generato": "2026-11-20T09:00:00+01:00",
+  "titolo": "Venerdì con Medvedev–Tiafoe in chiaro, Bayern in Bundesliga e Propaganda Live",
   "in_evidenza": [
-    {"ora": "20:30", "canale": "Italia 1 / Sky Sport Tennis", "titolo": "ATP Finals: Zverev – Fils", "tipo": "sport", "nota": "Sessione serale a Torino in chiaro, non prima delle 20:30"},
-    {"ora": "20:30", "canale": "Sky Sport", "titolo": "Eurolega: Olimpia Milano – Fenerbahçe", "tipo": "sport", "nota": "Basket di vertice, anche in streaming su NOW"},
-    {"ora": "21:15", "canale": "La7", "titolo": "Piazzapulita", "tipo": "inchiesta", "nota": "Corrado Formigli tra inchieste e attualità politica"},
-    {"ora": "21:30", "canale": "Rete 4", "titolo": "Dritto e rovescio", "tipo": "inchiesta", "nota": "Paolo Del Debbio tra politica e cronaca"},
-    {"ora": "21:15", "canale": "Sky Uno", "titolo": "X Factor 2026", "tipo": "show", "nota": "Nuovo Live Show del talent musicale"}
+    {"ora": "20:30", "canale": "Italia 1 / Sky Sport Tennis", "titolo": "ATP Finals: Medvedev – Tiafoe", "tipo": "sport", "nota": "Gruppo Lendl, chi vince va in semifinale. Non prima 20:30"},
+    {"ora": "20:30", "canale": "Sky Sport Arena", "titolo": "Bundesliga: Bayern Monaco – Colonia", "tipo": "partita", "nota": "Anticipo del venerdì, anche in streaming su NOW"},
+    {"ora": "20:30", "canale": "DAZN", "titolo": "Serie B: Hellas Verona – Cesena", "tipo": "partita", "nota": "Anticipo della cadetteria in esclusiva DAZN"},
+    {"ora": "21:15", "canale": "La7", "titolo": "Propaganda Live", "tipo": "inchiesta", "nota": "Diego Bianchi tra satira, reportage e attualità"},
+    {"ora": "21:30", "canale": "Rete 4", "titolo": "Quarto Grado", "tipo": "inchiesta", "nota": "Nuzzi e Viero sui casi di cronaca nera"}
   ],
   "cult": [
-    {"titolo": "Intrigo internazionale", "anno": 1959, "rt": 97, "nota": "Hitchcock e Cary Grant in fuga, l'aereo nel campo"},
-    {"titolo": "John Wick 4", "anno": 2023, "rt": 94, "nota": "Keanu Reeves, action coreografato da Parigi a Osaka"},
-    {"titolo": "Il mio vicino Totoro", "anno": 1988, "rt": 94, "nota": "Miyazaki puro: magia, gattobus e tanta tenerezza"}
+    {"titolo": "E.T. l'extra-terrestre", "anno": 1982, "rt": 99, "nota": "Spielberg, biciclette in volo e un alieno da abbracciare"},
+    {"titolo": "Frankenstein Junior", "anno": 1974, "rt": 94, "nota": "Mel Brooks e Gene Wilder: «Si può fare!»"},
+    {"titolo": "Aladdin", "anno": 1992, "rt": 96, "nota": "Disney al top, il Genio di Robin Williams"}
   ],
   "film_gratis": [
-    {"ora": "21:15", "canale": "La7 Cinema", "titolo": "Witness – Il testimone", "anno": 1985, "rt": 91, "nota": "Harrison Ford tra gli Amish, thriller di Peter Weir"},
-    {"ora": "21:15", "canale": "Iris", "titolo": "Beverly Hills Cop II", "anno": 1987, "rt": 48, "nota": "Eddie Murphy scatenato, action-comedy di Tony Scott"},
-    {"ora": "21:40", "canale": "TV8", "titolo": "Salt", "anno": 2010, "nota": "Angelina Jolie spia in fuga, action senza respiro"},
-    {"ora": "21:15", "canale": "20", "titolo": "Killer Elite", "anno": 2011, "nota": "Statham, Clive Owen e De Niro: action di mestiere"}
+    {"ora": "21:15", "canale": "20", "titolo": "Atomica bionda", "anno": 2017, "rt": 79, "nota": "Charlize Theron spia MI6 a Berlino, botte memorabili"},
+    {"ora": "21:15", "canale": "Twentyseven", "titolo": "Bugiardo bugiardo", "anno": 1997, "rt": 82, "nota": "Jim Carrey avvocato che non può mentire, risate garantite"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Scusate se esisto!", "anno": 2014, "nota": "Paola Cortellesi architetta tra pregiudizi, commedia brillante"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "Potere assoluto", "anno": 1997, "rt": 58, "nota": "Eastwood ladro testimone di un delitto presidenziale"}
   ],
   "fonti": [
-    "https://www.maridacaterini.it/programmazione-tv/497543-stasera-in-tv-giovedi-19-novembre-2026-cosa-vedere-guida-tv.html",
-    "https://www.dituttounpop.it/guida-tv-giovedi-19-novembre-2026-cosa-vedere-stasera-in-tv/",
-    "https://cpop.it/notizie/guida-tv-giovedi-19-novembre-2026-cosa-vedere-stasera-in-tv",
-    "https://cpop.it/notizie/sport-in-tv-oggi-giovedi-19-novembre-2026-orari-e-canali-di-calcio-tennis-e-motori",
-    "https://cpop.it/notizie/dove-vedere-zverev-fils-alle-atp-finals-oggi-19-novembre-orario-tv-e-streaming",
-    "https://cpop.it/notizie/dove-vedere-olimpia-milano-fenerbahce-oggi-19-novembre-orario-tv-e-streaming-eurolega",
-    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-giovedi-19-novembre-atp-finals-ed-eurolega-di-basket-980759",
-    "https://www.mymovies.it/cinemanews/2026/197547/",
-    "https://www.rottentomatoes.com/m/north_by_northwest",
-    "https://www.rottentomatoes.com/m/john_wick_chapter_4",
-    "https://www.rottentomatoes.com/m/my_neighbor_totoro",
-    "https://www.rottentomatoes.com/m/1023854-witness",
-    "https://www.rottentomatoes.com/m/beverly_hills_cop_2"
+    "https://www.maridacaterini.it/programmazione-tv/497637-stasera-in-tv-venerdi-20-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-venerdi-20-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/guida-tv-venerdi-20-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://cpop.it/notizie/sport-in-tv-oggi-venerdi-20-novembre-2026-orari-e-canali-di-calcio-tennis-e-motori",
+    "https://cpop.it/notizie/dove-vedere-medvedev-tiafoe-oggi-atp-finals-orario-tv-in-chiaro-e-streaming",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-venerdi-20-novembre-atp-finals-serie-b-italia-u17-e-superlega-volley-980904",
+    "https://www.mymovies.it/cinemanews/2026/197570/",
+    "https://www.rottentomatoes.com/m/et_the_extraterrestrial",
+    "https://www.rottentomatoes.com/m/young_frankenstein",
+    "https://www.rottentomatoes.com/m/aladdin_1992",
+    "https://www.rottentomatoes.com/m/atomic_blonde_2017",
+    "https://www.rottentomatoes.com/m/liar_liar",
+    "https://www.rottentomatoes.com/m/absolute_power"
   ]
 }

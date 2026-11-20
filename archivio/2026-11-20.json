@@ -1,0 +1,38 @@
+{
+  "giorno": "2026-11-20",
+  "generato": "2026-11-20T09:00:00+01:00",
+  "titolo": "Venerdì con Medvedev–Tiafoe in chiaro, Bayern in Bundesliga e Propaganda Live",
+  "in_evidenza": [
+    {"ora": "20:30", "canale": "Italia 1 / Sky Sport Tennis", "titolo": "ATP Finals: Medvedev – Tiafoe", "tipo": "sport", "nota": "Gruppo Lendl, chi vince va in semifinale. Non prima 20:30"},
+    {"ora": "20:30", "canale": "Sky Sport Arena", "titolo": "Bundesliga: Bayern Monaco – Colonia", "tipo": "partita", "nota": "Anticipo del venerdì, anche in streaming su NOW"},
+    {"ora": "20:30", "canale": "DAZN", "titolo": "Serie B: Hellas Verona – Cesena", "tipo": "partita", "nota": "Anticipo della cadetteria in esclusiva DAZN"},
+    {"ora": "21:15", "canale": "La7", "titolo": "Propaganda Live", "tipo": "inchiesta", "nota": "Diego Bianchi tra satira, reportage e attualità"},
+    {"ora": "21:30", "canale": "Rete 4", "titolo": "Quarto Grado", "tipo": "inchiesta", "nota": "Nuzzi e Viero sui casi di cronaca nera"}
+  ],
+  "cult": [
+    {"titolo": "E.T. l'extra-terrestre", "anno": 1982, "rt": 99, "nota": "Spielberg, biciclette in volo e un alieno da abbracciare"},
+    {"titolo": "Frankenstein Junior", "anno": 1974, "rt": 94, "nota": "Mel Brooks e Gene Wilder: «Si può fare!»"},
+    {"titolo": "Aladdin", "anno": 1992, "rt": 96, "nota": "Disney al top, il Genio di Robin Williams"}
+  ],
+  "film_gratis": [
+    {"ora": "21:15", "canale": "20", "titolo": "Atomica bionda", "anno": 2017, "rt": 79, "nota": "Charlize Theron spia MI6 a Berlino, botte memorabili"},
+    {"ora": "21:15", "canale": "Twentyseven", "titolo": "Bugiardo bugiardo", "anno": 1997, "rt": 82, "nota": "Jim Carrey avvocato che non può mentire, risate garantite"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Scusate se esisto!", "anno": 2014, "nota": "Paola Cortellesi architetta tra pregiudizi, commedia brillante"},
+    {"ora": "21:15", "canale": "Iris", "titolo": "Potere assoluto", "anno": 1997, "rt": 58, "nota": "Eastwood ladro testimone di un delitto presidenziale"}
+  ],
+  "fonti": [
+    "https://www.maridacaterini.it/programmazione-tv/497637-stasera-in-tv-venerdi-20-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-venerdi-20-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/guida-tv-venerdi-20-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://cpop.it/notizie/sport-in-tv-oggi-venerdi-20-novembre-2026-orari-e-canali-di-calcio-tennis-e-motori",
+    "https://cpop.it/notizie/dove-vedere-medvedev-tiafoe-oggi-atp-finals-orario-tv-in-chiaro-e-streaming",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-venerdi-20-novembre-atp-finals-serie-b-italia-u17-e-superlega-volley-980904",
+    "https://www.mymovies.it/cinemanews/2026/197570/",
+    "https://www.rottentomatoes.com/m/et_the_extraterrestrial",
+    "https://www.rottentomatoes.com/m/young_frankenstein",
+    "https://www.rottentomatoes.com/m/aladdin_1992",
+    "https://www.rottentomatoes.com/m/atomic_blonde_2017",
+    "https://www.rottentomatoes.com/m/liar_liar",
+    "https://www.rottentomatoes.com/m/absolute_power"
+  ]
+}
