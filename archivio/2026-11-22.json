@@ -1,0 +1,36 @@
+{
+  "giorno": "2026-11-22",
+  "generato": "2026-11-22T09:00:00+01:00",
+  "titolo": "Domenica con Atalanta–Inter, Report, Fazio e Le Iene sulla sanità",
+  "in_evidenza": [
+    {"ora": "20:45", "canale": "DAZN", "titolo": "Serie A: Atalanta – Inter", "tipo": "partita", "nota": "Big match della domenica sera, solo su DAZN"},
+    {"ora": "21:00", "canale": "Rai 3", "titolo": "Report", "tipo": "inchiesta", "nota": "Ranucci sulla rotta migratoria del Mediterraneo e appalti pubblici"},
+    {"ora": "21:20", "canale": "Italia 1", "titolo": "Le Iene presentano: La Cura", "tipo": "inchiesta", "nota": "Speciale inchiesta delle Iene dedicato alla sanità"},
+    {"ora": "20:00", "canale": "Nove", "titolo": "Che tempo che fa", "tipo": "show", "nota": "Fazio e Littizzetto, ospiti e attualità della domenica"},
+    {"ora": "21:30", "canale": "Rai 1", "titolo": "La famiglia Panini – L'avventura delle figurine", "tipo": "show", "nota": "Debutto della fiction sulla Modena delle figurine"}
+  ],
+  "cult": [
+    {"titolo": "Spider-Man: Across the Spider-Verse", "anno": 2023, "rt": 95, "nota": "Miles Morales tra multiversi, animazione che toglie il fiato"},
+    {"titolo": "Princess Mononoke", "anno": 1997, "rt": 94, "nota": "Miyazaki epico: foreste, dèi animali e guerra all'uomo"},
+    {"titolo": "Il dottor Stranamore", "anno": 1964, "rt": 97, "nota": "Kubrick e Peter Sellers ridono della bomba atomica"}
+  ],
+  "film_gratis": [
+    {"ora": "21:15", "canale": "Cielo", "titolo": "Kill Bill: Volume 2", "anno": 2004, "rt": 84, "nota": "Tarantino chiude la vendetta della Sposa, Uma Thurman inarrestabile"},
+    {"ora": "21:14", "canale": "Iris", "titolo": "Blow", "anno": 2001, "nota": "Johnny Depp narcotrafficante nell'America anni Settanta, ascesa e caduta"},
+    {"ora": "21:20", "canale": "Rai 4", "titolo": "Disturbia", "anno": 2007, "nota": "Shia LaBeouf spia i vicini: thriller alla Finestra sul cortile"},
+    {"ora": "21:30", "canale": "TV8", "titolo": "Il giustiziere della notte", "anno": 2018, "nota": "Bruce Willis chirurgo vendicatore nel remake di Eli Roth"}
+  ],
+  "fonti": [
+    "https://www.maridacaterini.it/programmazione-tv/497767-stasera-in-tv-domenica-22-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-domenica-22-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/guida-tv-domenica-22-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://www.mymovies.it/cinemanews/2026/197580/",
+    "https://cpop.it/notizie/sport-in-tv-oggi-domenica-22-novembre-2026-orari-e-canali-di-calcio-motori-e-volley",
+    "https://cpop.it/notizie/dove-vedere-atalanta-inter-stasera-22-novembre-orario-tv-e-streaming",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-domenica-22-novembre-serie-a-motogp-sci-alpino-atp-finals-981180",
+    "https://www.rottentomatoes.com/m/spider_man_across_the_spider_verse",
+    "https://www.rottentomatoes.com/m/princess_mononoke",
+    "https://www.rottentomatoes.com/m/dr_strangelove",
+    "https://www.rottentomatoes.com/m/kill_bill_volume_2"
+  ]
+}
