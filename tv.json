@@ -1,36 +1,35 @@
 {
-  "giorno": "2026-11-22",
-  "generato": "2026-11-22T09:00:00+01:00",
-  "titolo": "Domenica con Atalanta–Inter, Report, Fazio e Le Iene sulla sanità",
+  "giorno": "2026-11-23",
+  "generato": "2026-11-23T09:00:00+01:00",
+  "titolo": "Lunedì con Monza–Fiorentina, Giletti, Porro e Apollo 13 su Iris",
   "in_evidenza": [
-    {"ora": "20:45", "canale": "DAZN", "titolo": "Serie A: Atalanta – Inter", "tipo": "partita", "nota": "Big match della domenica sera, solo su DAZN"},
-    {"ora": "21:00", "canale": "Rai 3", "titolo": "Report", "tipo": "inchiesta", "nota": "Ranucci sulla rotta migratoria del Mediterraneo e appalti pubblici"},
-    {"ora": "21:20", "canale": "Italia 1", "titolo": "Le Iene presentano: La Cura", "tipo": "inchiesta", "nota": "Speciale inchiesta delle Iene dedicato alla sanità"},
-    {"ora": "20:00", "canale": "Nove", "titolo": "Che tempo che fa", "tipo": "show", "nota": "Fazio e Littizzetto, ospiti e attualità della domenica"},
-    {"ora": "21:30", "canale": "Rai 1", "titolo": "La famiglia Panini – L'avventura delle figurine", "tipo": "show", "nota": "Debutto della fiction sulla Modena delle figurine"}
+    {"ora": "20:45", "canale": "DAZN / Sky Sport Calcio", "titolo": "Serie A: Monza – Fiorentina", "tipo": "partita", "nota": "Posticipo del lunedì che chiude la 12ª giornata"},
+    {"ora": "21:15", "canale": "Rai 3", "titolo": "Lo Stato delle Cose", "tipo": "inchiesta", "nota": "Giletti tra politica e cronaca, interviste e testimonianze"},
+    {"ora": "21:30", "canale": "Rete 4", "titolo": "Quarta Repubblica", "tipo": "inchiesta", "nota": "Nicola Porro su politica, economia e attualità"},
+    {"ora": "21:20", "canale": "Canale 5", "titolo": "Grande Fratello Vip", "tipo": "show", "nota": "Ilary Blasi, televoto decisivo a ridosso della finale"},
+    {"ora": "21:50", "canale": "TV8", "titolo": "GialappaShow", "tipo": "show", "nota": "Gialappa's Band e Mago Forest tra imitazioni e parodie"}
   ],
   "cult": [
-    {"titolo": "Spider-Man: Across the Spider-Verse", "anno": 2023, "rt": 95, "nota": "Miles Morales tra multiversi, animazione che toglie il fiato"},
-    {"titolo": "Principessa Mononoke", "anno": 1997, "rt": 94, "nota": "Miyazaki epico: foreste, dèi animali e guerra all'uomo"},
-    {"titolo": "Il dottor Stranamore", "anno": 1964, "rt": 97, "nota": "Kubrick e Peter Sellers ridono della bomba atomica"}
+    {"titolo": "La finestra sul cortile", "anno": 1954, "rt": 99, "nota": "Hitchcock e James Stewart spiano un delitto dalla finestra"},
+    {"titolo": "Selvaggi in fuga", "anno": 2016, "rt": 97, "nota": "Taika Waititi: ragazzino ribelle e zio burbero nella boscaglia"},
+    {"titolo": "Gravity", "anno": 2013, "rt": 96, "nota": "Sandra Bullock dispersa nello spazio, tensione pura per 90 minuti"}
   ],
   "film_gratis": [
-    {"ora": "21:15", "canale": "Cielo", "titolo": "Kill Bill: Volume 2", "anno": 2004, "rt": 84, "nota": "Tarantino chiude la vendetta della Sposa, Uma Thurman inarrestabile"},
-    {"ora": "21:14", "canale": "Iris", "titolo": "Blow", "anno": 2001, "nota": "Johnny Depp narcotrafficante nell'America anni Settanta, ascesa e caduta"},
-    {"ora": "21:20", "canale": "Rai 4", "titolo": "Disturbia", "anno": 2007, "nota": "Shia LaBeouf spia i vicini: thriller alla Finestra sul cortile"},
-    {"ora": "21:30", "canale": "TV8", "titolo": "Il giustiziere della notte", "anno": 2018, "nota": "Bruce Willis chirurgo vendicatore nel remake di Eli Roth"}
+    {"ora": "21:07", "canale": "Iris", "titolo": "Apollo 13", "anno": 1995, "rt": 92, "nota": "Tom Hanks e la missione salvata: Ron Howard al top"},
+    {"ora": "21:15", "canale": "Cielo", "titolo": "L'amore bugiardo – Gone Girl", "anno": 2014, "nota": "Fincher, moglie scomparsa e marito sospettato: thriller tagliente"},
+    {"ora": "21:28", "canale": "Italia 1", "titolo": "Fast & Furious – Hobbs & Shaw", "anno": 2019, "nota": "Johnson e Statham rivali costretti a collaborare, azione spensierata"},
+    {"ora": "21:07", "canale": "20", "titolo": "The Foreigner", "anno": 2017, "nota": "Jackie Chan padre in cerca di giustizia, action cupo"}
   ],
   "fonti": [
-    "https://www.maridacaterini.it/programmazione-tv/497767-stasera-in-tv-domenica-22-novembre-2026-cosa-vedere-guida-tv.html",
-    "https://www.dituttounpop.it/guida-tv-domenica-22-novembre-2026-cosa-vedere-stasera-in-tv/",
-    "https://cpop.it/notizie/guida-tv-domenica-22-novembre-2026-cosa-vedere-stasera-in-tv",
-    "https://www.mymovies.it/cinemanews/2026/197580/",
-    "https://cpop.it/notizie/sport-in-tv-oggi-domenica-22-novembre-2026-orari-e-canali-di-calcio-motori-e-volley",
-    "https://cpop.it/notizie/dove-vedere-atalanta-inter-stasera-22-novembre-orario-tv-e-streaming",
-    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-domenica-22-novembre-serie-a-motogp-sci-alpino-atp-finals-981180",
-    "https://www.rottentomatoes.com/m/spider_man_across_the_spider_verse",
-    "https://www.rottentomatoes.com/m/princess_mononoke",
-    "https://www.rottentomatoes.com/m/dr_strangelove",
-    "https://www.rottentomatoes.com/m/kill_bill_volume_2"
+    "https://www.maridacaterini.it/programmazione-tv/497936-stasera-in-tv-lunedi-23-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-lunedi-23-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/guida-tv-lunedi-23-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://cpop.it/notizie/sport-in-tv-oggi-lunedi-23-novembre-2026-orari-e-canali-di-calcio-tennis-e-basket",
+    "https://cpop.it/notizie/dove-vedere-monza-fiorentina-stasera-23-novembre-orario-canali-tv-e-streaming",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-lunedi-23-novembre-posticipo-di-a-mondiali-u-17-primavera-e-serie-c-981318",
+    "https://www.rottentomatoes.com/m/1017289-rear_window",
+    "https://www.rottentomatoes.com/m/hunt_for_the_wilderpeople",
+    "https://www.rottentomatoes.com/m/gravity_2013",
+    "https://www.rottentomatoes.com/m/apollo_13"
   ]
 }
