@@ -1,0 +1,35 @@
+{
+  "giorno": "2026-11-24",
+  "generato": "2026-11-24T09:00:00+01:00",
+  "titolo": "Martedì di Champions con City–Napoli e Como, poi Belve con Totti",
+  "in_evidenza": [
+    {"ora": "21:00", "canale": "Sky Sport Uno / NOW", "titolo": "Champions League: Manchester City – Napoli", "tipo": "partita", "nota": "Napoli all'Etihad, sfida di cartello della quinta giornata"},
+    {"ora": "21:00", "canale": "Sky Sport Arena / NOW", "titolo": "Champions League: Como – AEK Atene", "tipo": "partita", "nota": "Il Como cerca punti pesanti nella fase campionato"},
+    {"ora": "21:20", "canale": "Rai 2", "titolo": "Belve", "tipo": "show", "nota": "Fagnani riparte con Totti, Favino e Gemma Galgani"},
+    {"ora": "21:15", "canale": "La7", "titolo": "diMartedì", "tipo": "inchiesta", "nota": "Giovanni Floris tra politica, economia e attualità"},
+    {"ora": "21:30", "canale": "Rete 4", "titolo": "Verità nascoste", "tipo": "inchiesta", "nota": "Milo Infante indaga sui casi di cronaca irrisolti"}
+  ],
+  "cult": [
+    {"titolo": "Il mago di Oz", "anno": 1939, "rt": 98, "nota": "Judy Garland oltre l'arcobaleno: avventura musicale senza tempo"},
+    {"titolo": "La Bella e la Bestia", "anno": 1991, "rt": 95, "nota": "Il classico Disney che conquistò anche l'Academy"},
+    {"titolo": "Gli Incredibili 2", "anno": 2018, "rt": 93, "nota": "Elastigirl in missione, Bob a casa con Jack-Jack"}
+  ],
+  "film_gratis": [
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Io sono ancora qui", "anno": 2024, "nota": "Walter Salles, Brasile della dittatura: dramma potente da Oscar"},
+    {"ora": "21:15", "canale": "Twentyseven", "titolo": "The Mask – Da zero a mito", "anno": 1994, "nota": "Jim Carrey scatenato con la maschera magica, comicità cartoon"},
+    {"ora": "21:15", "canale": "La7 Cinema", "titolo": "Ragazze interrotte", "anno": 1999, "nota": "Winona Ryder e Angelina Jolie, da Oscar in clinica psichiatrica"},
+    {"ora": "21:26", "canale": "Italia 1", "titolo": "I mercenari 2", "anno": 2012, "nota": "Stallone, Statham e Willis: action nostalgico a raffica"}
+  ],
+  "fonti": [
+    "https://www.maridacaterini.it/senza-categoria/497972-stasera-in-tv-martedi-24-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://cpop.it/notizie/guida-tv-martedi-24-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://cpop.it/notizie/sport-in-tv-oggi-martedi-24-novembre-2026-orari-e-canali-di-calcio-basket-e-volley",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-martedi-24-novembre-champions-league-serie-b-eurolega-981470",
+    "https://cpop.it/notizie/dove-vedere-manchester-city-napoli-stasera-orario-canali-tv-e-streaming",
+    "https://cpop.it/notizie/dove-vedere-como-aek-atene-oggi-orario-canali-tv-e-streaming-della-champions-league",
+    "https://www.dituttounpop.it/belve-prima-puntata-24-novembre-totti-favino-gemma/",
+    "https://www.rottentomatoes.com/m/the_wizard_of_oz_1939",
+    "https://www.rottentomatoes.com/m/beauty_and_the_beast_1991",
+    "https://www.rottentomatoes.com/m/incredibles_2"
+  ]
+}
