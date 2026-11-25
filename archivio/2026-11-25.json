@@ -1,0 +1,36 @@
+{
+  "giorno": "2026-11-25",
+  "generato": "2026-11-25T09:00:00+01:00",
+  "titolo": "Mercoledì di Champions con Inter, Roma a Parigi e Bayern in chiaro",
+  "in_evidenza": [
+    {"ora": "21:00", "canale": "Sky Sport Uno / NOW", "titolo": "Champions League: Inter – Stoccarda", "tipo": "partita", "nota": "Nerazzurri a San Siro, quinta giornata della fase campionato"},
+    {"ora": "21:00", "canale": "Prime Video", "titolo": "Champions League: PSG – Roma", "tipo": "partita", "nota": "Giallorossi al Parco dei Principi, esclusiva Prime Video"},
+    {"ora": "21:00", "canale": "TV8 / Sky Sport Calcio", "titolo": "Champions League: Lille – Bayern Monaco", "tipo": "partita", "nota": "La partita gratis in chiaro della serata"},
+    {"ora": "21:15", "canale": "Rai 3", "titolo": "Chi l'ha visto?", "tipo": "inchiesta", "nota": "Scomparsi e casi irrisolti, appuntamento fisso del mercoledì"},
+    {"ora": "21:30", "canale": "Rai 1", "titolo": "Una Nessuna Centomila", "tipo": "show", "nota": "Concerto all'Arena di Verona contro la violenza sulle donne"}
+  ],
+  "cult": [
+    {"titolo": "Wallace & Gromit – La maledizione del coniglio mannaro", "anno": 2005, "rt": 95, "nota": "Plastilina geniale: inventore e cane contro un coniglio gigante"},
+    {"titolo": "Kung Fu Hustle", "anno": 2004, "rt": 90, "nota": "Stephen Chow mescola arti marziali e cartoni animati"},
+    {"titolo": "Il terzo uomo", "anno": 1949, "rt": 99, "nota": "Orson Welles nella Vienna del dopoguerra, thriller leggendario"}
+  ],
+  "film_gratis": [
+    {"ora": "21:15", "canale": "La7 Cinema", "titolo": "Tre manifesti a Ebbing, Missouri", "anno": 2017, "rt": 90, "nota": "Frances McDormand da Oscar, rabbia e humour nerissimo"},
+    {"ora": "21:12", "canale": "Iris", "titolo": "Inside Man", "anno": 2006, "rt": 86, "nota": "Spike Lee, Denzel e Clive Owen: rapina in banca perfetta"},
+    {"ora": "21:00", "canale": "Cine34", "titolo": "Scuola di ladri", "anno": 1986, "nota": "Villaggio, Banfi e Boldi ladri maldestri: risate garantite"},
+    {"ora": "21:07", "canale": "Twentyseven", "titolo": "Mi presenti i tuoi?", "anno": 2004, "nota": "Ben Stiller contro De Niro, commedia leggera da divano"}
+  ],
+  "fonti": [
+    "https://www.maridacaterini.it/programmazione-tv/498037-stasera-in-tv-mercoledi-25-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://cpop.it/notizie/guida-tv-mercoledi-25-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://cpop.it/notizie/sport-in-tv-oggi-mercoledi-25-novembre-2026-orari-e-canali-di-calcio-basket-e-volley",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-mercoledi-25-novembre-champions-e-l-italia-in-coppa-davis-981616",
+    "https://cpop.it/notizie/dove-vedere-psg-roma-oggi-25-novembre-2026-orario-tv-e-streaming",
+    "https://cpop.it/notizie/dove-vedere-inter-stoccarda-stasera-orario-canali-tv-e-streaming-del-25-novembre",
+    "https://www.rottentomatoes.com/m/wallace_and_gromit_the_curse_of_the_were_rabbit",
+    "https://www.rottentomatoes.com/m/kung_fu_hustle",
+    "https://www.rottentomatoes.com/m/the_third_man",
+    "https://www.rottentomatoes.com/m/three_billboards_outside_ebbing_missouri",
+    "https://www.rottentomatoes.com/m/inside_man"
+  ]
+}
