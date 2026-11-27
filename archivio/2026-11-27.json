@@ -1,0 +1,34 @@
+{
+  "giorno": "2026-11-27",
+  "generato": "2026-11-27T09:00:00+01:00",
+  "titolo": "Venerdì con Venezia-Bologna, Premier League e la satira di Crozza e Propaganda",
+  "in_evidenza": [
+    {"ora": "20:45", "canale": "Sky Sport Calcio / DAZN / NOW", "titolo": "Serie A: Venezia – Bologna", "tipo": "partita", "nota": "Anticipo della 13ª giornata in laguna"},
+    {"ora": "21:00", "canale": "Sky Sport Max / NOW", "titolo": "Premier League: Nottingham Forest – Chelsea", "tipo": "partita", "nota": "Venerdì inglese al City Ground"},
+    {"ora": "21:15", "canale": "La7", "titolo": "Propaganda Live", "tipo": "inchiesta", "nota": "Diego Bianchi tra satira, reportage e musica"},
+    {"ora": "21:30", "canale": "Nove", "titolo": "Fratelli di Crozza", "tipo": "show", "nota": "Imitazioni e monologhi su politica e attualità"},
+    {"ora": "21:33", "canale": "Rete 4", "titolo": "Quarto Grado", "tipo": "inchiesta", "nota": "Nuzzi e Viero sui casi di cronaca"}
+  ],
+  "cult": [
+    {"titolo": "Iron Man", "anno": 2008, "rt": 94, "nota": "Robert Downey Jr. inaugura l'universo Marvel con ironia"},
+    {"titolo": "Shaun, vita da pecora – Il film", "anno": 2015, "rt": 99, "nota": "Aardman senza dialoghi: gregge in città, risate continue"},
+    {"titolo": "A Quiet Place – Un posto tranquillo", "anno": 2018, "rt": 96, "nota": "Silenzio o morte: tensione pura firmata Krasinski"}
+  ],
+  "film_gratis": [
+    {"ora": "21:00", "canale": "20", "titolo": "The Bourne Identity", "anno": 2002, "rt": 84, "nota": "Matt Damon smemorato e braccato: spy action solido"},
+    {"ora": "21:16", "canale": "Iris", "titolo": "L'uomo dalla cravatta di cuoio", "anno": 1968, "nota": "Clint Eastwood sceriffo dell'Arizona a New York"},
+    {"ora": "21:20", "canale": "Canale 5", "titolo": "Il diavolo veste Prada", "anno": 2006, "nota": "Meryl Streep terribile direttrice di moda, commedia brillante"},
+    {"ora": "21:40", "canale": "TV8", "titolo": "Lo Hobbit – Un viaggio inaspettato", "anno": 2012, "nota": "Ritorno nella Terra di Mezzo con Bilbo"}
+  ],
+  "fonti": [
+    "https://www.maridacaterini.it/programmazione-tv/498138-stasera-in-tv-venerdi-27-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.mymovies.it/cinemanews/2026/197625/",
+    "https://cpop.it/notizie/sport-in-tv-oggi-venerdi-27-novembre-2026-orari-e-canali-di-calcio-tennis-e-motori",
+    "https://cpop.it/notizie/dove-vedere-venezia-bologna-oggi-27-novembre-2026-orario-canale-tv-e-streaming",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-venerdi-27-novembre-anticipi-serie-a-e-c-rugby-e-coppa-davis-981939",
+    "https://www.rottentomatoes.com/m/iron_man",
+    "https://www.rottentomatoes.com/m/shaun_the_sheep_movie",
+    "https://www.rottentomatoes.com/m/a_quiet_place_2018",
+    "https://www.rottentomatoes.com/m/bourne_identity"
+  ]
+}
