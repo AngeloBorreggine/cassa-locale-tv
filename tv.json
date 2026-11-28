@@ -1,34 +1,33 @@
 {
-  "giorno": "2026-11-27",
-  "generato": "2026-11-27T09:00:00+01:00",
-  "titolo": "Venerdì con Venezia-Bologna, Premier League e la satira di Crozza e Propaganda",
+  "giorno": "2026-11-28",
+  "generato": "2026-11-28T09:00:00+01:00",
+  "titolo": "Sabato con Inter-Genoa, Real Madrid, F1 in Qatar e Ballando con le Stelle",
   "in_evidenza": [
-    {"ora": "20:45", "canale": "Sky Sport Calcio / DAZN / NOW", "titolo": "Serie A: Venezia – Bologna", "tipo": "partita", "nota": "Anticipo della 13ª giornata in laguna"},
-    {"ora": "21:00", "canale": "Sky Sport Max / NOW", "titolo": "Premier League: Nottingham Forest – Chelsea", "tipo": "partita", "nota": "Venerdì inglese al City Ground"},
-    {"ora": "21:15", "canale": "La7", "titolo": "Propaganda Live", "tipo": "inchiesta", "nota": "Diego Bianchi tra satira, reportage e musica"},
-    {"ora": "21:30", "canale": "Nove", "titolo": "Fratelli di Crozza", "tipo": "show", "nota": "Imitazioni e monologhi su politica e attualità"},
-    {"ora": "21:33", "canale": "Rete 4", "titolo": "Quarto Grado", "tipo": "inchiesta", "nota": "Nuzzi e Viero sui casi di cronaca"}
+    {"ora": "20:45", "canale": "Sky Sport Uno / Sky Sport Calcio / DAZN", "titolo": "Serie A: Inter – Genoa", "tipo": "partita", "nota": "Posticipo del sabato della 13ª giornata a San Siro"},
+    {"ora": "21:00", "canale": "DAZN", "titolo": "Liga: Real Madrid – Alavés", "tipo": "partita", "nota": "Serata del Bernabéu in diretta su DAZN"},
+    {"ora": "21:25", "canale": "TV8", "titolo": "F1 GP Qatar: Qualifiche", "tipo": "sport", "nota": "In chiaro dopo la diretta Sky delle 18:55"},
+    {"ora": "20:35", "canale": "La7", "titolo": "In altre parole", "tipo": "inchiesta", "nota": "Gramellini tra attualità, ospiti e approfondimento"},
+    {"ora": "21:30", "canale": "Rai 1", "titolo": "Ballando con le Stelle", "tipo": "show", "nota": "Milly Carlucci e la gara di ballo del sabato"}
   ],
   "cult": [
-    {"titolo": "Iron Man", "anno": 2008, "rt": 94, "nota": "Robert Downey Jr. inaugura l'universo Marvel con ironia"},
-    {"titolo": "Shaun, vita da pecora – Il film", "anno": 2015, "rt": 99, "nota": "Aardman senza dialoghi: gregge in città, risate continue"},
-    {"titolo": "A Quiet Place – Un posto tranquillo", "anno": 2018, "rt": 96, "nota": "Silenzio o morte: tensione pura firmata Krasinski"}
+    {"titolo": "Mad Max: Fury Road", "anno": 2015, "rt": 97, "nota": "Inseguimento nel deserto lungo due ore: action perfetto"},
+    {"titolo": "Ritorno al futuro", "anno": 1985, "rt": 93, "nota": "Marty, Doc e la DeLorean: avventura senza tempo"},
+    {"titolo": "Nightmare Before Christmas", "anno": 1993, "rt": 95, "nota": "Jack Skeletron rapisce il Natale: stop-motion d'autore"}
   ],
   "film_gratis": [
-    {"ora": "21:00", "canale": "20", "titolo": "The Bourne Identity", "anno": 2002, "rt": 84, "nota": "Matt Damon smemorato e braccato: spy action solido"},
-    {"ora": "21:16", "canale": "Iris", "titolo": "L'uomo dalla cravatta di cuoio", "anno": 1968, "nota": "Clint Eastwood sceriffo dell'Arizona a New York"},
-    {"ora": "21:20", "canale": "Canale 5", "titolo": "Il diavolo veste Prada", "anno": 2006, "nota": "Meryl Streep terribile direttrice di moda, commedia brillante"},
-    {"ora": "21:40", "canale": "TV8", "titolo": "Lo Hobbit – Un viaggio inaspettato", "anno": 2012, "nota": "Ritorno nella Terra di Mezzo con Bilbo"}
+    {"ora": "21:14", "canale": "Iris", "titolo": "Rapimento e riscatto", "anno": 2000, "nota": "Russell Crowe negoziatore di sequestri in Sudamerica"},
+    {"ora": "21:30", "canale": "Rete 4", "titolo": "Red", "anno": 2010, "nota": "Bruce Willis agente in pensione torna in azione"},
+    {"ora": "21:10", "canale": "Rai Movie", "titolo": "Piedone d'Egitto", "anno": 1980, "nota": "Bud Spencer commissario a spasso tra le piramidi"},
+    {"ora": "21:08", "canale": "Twentyseven", "titolo": "Airport", "anno": 1970, "nota": "Capostipite dei catastrofici con Burt Lancaster e Dean Martin"}
   ],
   "fonti": [
-    "https://www.maridacaterini.it/programmazione-tv/498138-stasera-in-tv-venerdi-27-novembre-2026-cosa-vedere-guida-tv.html",
-    "https://www.mymovies.it/cinemanews/2026/197625/",
-    "https://cpop.it/notizie/sport-in-tv-oggi-venerdi-27-novembre-2026-orari-e-canali-di-calcio-tennis-e-motori",
-    "https://cpop.it/notizie/dove-vedere-venezia-bologna-oggi-27-novembre-2026-orario-canale-tv-e-streaming",
-    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-venerdi-27-novembre-anticipi-serie-a-e-c-rugby-e-coppa-davis-981939",
-    "https://www.rottentomatoes.com/m/iron_man",
-    "https://www.rottentomatoes.com/m/shaun_the_sheep_movie",
-    "https://www.rottentomatoes.com/m/a_quiet_place_2018",
-    "https://www.rottentomatoes.com/m/bourne_identity"
+    "https://www.maridacaterini.it/programmazione-tv/498209-stasera-in-tv-sabato-28-novembre-2026-cosa-vedere-guida-tv.html",
+    "https://www.dituttounpop.it/guida-tv-sabato-28-novembre-2026-cosa-vedere-stasera-in-tv/",
+    "https://cpop.it/notizie/guida-tv-sabato-28-novembre-2026-cosa-vedere-stasera-in-tv",
+    "https://cpop.it/notizie/sport-in-tv-oggi-sabato-28-novembre-2026-orari-e-canali-di-calcio-motori-e-volley",
+    "https://www.virgilio.it/sport/sport-oggi-in-tv-la-programmazione-di-sabato-28-novembre-serie-a-motogp-sci-alpino-e-rugby-982091",
+    "https://www.rottentomatoes.com/m/mad_max_fury_road",
+    "https://www.rottentomatoes.com/m/back_to_the_future",
+    "https://www.rottentomatoes.com/m/the_nightmare_before_christmas"
   ]
 }
